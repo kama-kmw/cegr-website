@@ -17,6 +17,8 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css"/>
 	<link rel="stylesheet" href="css/owl.carousel.css"/>
 	<link rel="stylesheet" href="css/style.css"/>
+	<link rel="stylesheet" href="css/toggle.css">
+	<link rel="stylesheet" href="css/mobmenu.css">
 
 
 	<!--[if lt IE 9]>
@@ -82,6 +84,56 @@
 							<li><a href="#">Ru/<span>En</span></a></li>
 						</ul>
 					</nav>
+				</div>
+				<div class="toggle-box">
+					<div class="toggle" onclick="toggle()"></div>
+					<div class="mob-container">
+						<ul class="mob-menu">
+							<li class="mob-menu__item logo">
+								<a href="#" class="mob-menu__link">
+									<h1 class="logo__title">Цуриху</h1>
+									<p class="logo__text">HALAL DONER</p>
+								</a>
+							</li>
+							<li class="mob-menu__item">
+								<a href="tel:+79283354000" class="mob-menu__link" onclick="toggle()"
+									>п.Иноземцево, ул.Шоссейная, 213</a
+								>
+							</li>
+							<li class="mob-menu__item">
+								<a
+									href="tel:+79384447020"
+									class="mob-menu__link"
+									onclick="toggle()"
+									>г.Минеральные Воды, пр.Карла Маркса, 37</a
+								>
+							</li>
+							<li class="mob-menu__item">
+								<a
+									href="tel:+79324310111"
+									class="mob-menu__link"
+									onclick="toggle()"
+									>г.Георгиевск, ул.Салогубова, 8</a
+								>
+							</li>
+							<li class="mob-menu__item">
+								<a
+									href="tel:+79289515163"
+									class="mob-menu__link"
+									onclick="toggle()"
+									>г.Пятигорск, ул.Дзержинского, 47</a
+								>
+							</li>
+							<li class="mob-menu__item">
+								<a
+									href="tel:+79614636005"
+									class="mob-menu__link"
+									onclick="toggle()"
+									>г.Пятигорск, ул.Ессентукская, 29 Б</a
+								>
+							</li>              
+						</ul>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -900,6 +952,8 @@
 
 
 	<!--====== Javascripts & Jquery ======-->
+	<!-- Подключаем тогл -->
+	<script src="js/toggle.js"></script>
 	<script src="js/jquery-3.2.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/mixitup.min.js"></script>
