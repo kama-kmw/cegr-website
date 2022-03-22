@@ -19,6 +19,7 @@
 	<link rel="stylesheet" href="css/style.css"/>
 	<link rel="stylesheet" href="css/toggle.css">
 	<link rel="stylesheet" href="css/mobmenu.css">
+	<link rel="stylesheet" href="css/elem-show.css">
 
 
 	<!--[if lt IE 9]>
@@ -35,29 +36,23 @@
 
 	<!-- Header section -->
 	<header class="header-section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-3 col-md-3">
-					<div class="site-logo">
-						<!-- <h1 class="logo__link">Экономические и гуманитраные</h1>
-						<h1 class="logo__link logo__link-red ">Исследования регионов</h1> -->
-						<h1 class="logo__subtitle logo__subtitle-red">Официальный сайт журнала</h1>
-						<h1 class="logo__subtitle logo__subtitle-red lang">Официальный сайт журнала</h1>
-						<!-- <a href="#" class="logo__lang">Язык/Language</a> -->
-					</div>
-					<!-- <div class="nav-switch">
-						<i class="fa fa-bars"></i>
-					</div> -->
-				</div>
-				<div class="col-lg-9 col-md-9">
-					<!-- <a href="" class="site-btn header-btn">Login</a> -->
-					<nav class="main-menu">
+		<div class="container-box">
+			<div class="header-box">
+				<div class="logo-block">
+            <a href="" class="menu__link">
+              <h3 class="logo__title">Официальный сайт
+							</h3>
+							<!-- <h3 class="logo__title">журнала
+							</h3> -->
+            </a> 
+        </div>			
+				<nav class="main-menu">
 						<ul class="main-menu__items">
 							<li>
 								<a href="index.html">Главный редактор, редколегия и редсовет</a>
 							</li>
 							<li>
-								<a href="#">Нормативно-правовая база 2</a>
+								<a href="#">Нормативно-правовая база</a>
 								<ul class="sub-menu">
 									<li><a href="#s1">Закон о средствах массовой информации</a></li>
 									<li><a href="#s2">Положение о журнале</a></li>
@@ -83,55 +78,95 @@
 							<li><a href="contact.html">Ретракция</a></li>
 							<li><a href="#">Ru/<span>En</span></a></li>
 						</ul>
-					</nav>
-				</div>
+				</nav>
 				<div class="toggle-box">
 					<div class="toggle" onclick="toggle()"></div>
 					<div class="mob-container">
 						<ul class="mob-menu">
 							<li class="mob-menu__item logo">
 								<a href="#" class="mob-menu__link">
-									<h1 class="logo__title">Цуриху</h1>
-									<p class="logo__text">HALAL DONER</p>
+									<!-- <h1 class="logo__title">Официальный сайт</h1> -->
+									<p class="logo__text">Экономические и гуманитарные <br>
+										 исследования регионов</p>
 								</a>
 							</li>
 							<li class="mob-menu__item">
-								<a href="tel:+79283354000" class="mob-menu__link" onclick="toggle()"
-									>п.Иноземцево, ул.Шоссейная, 213</a
+								<a href="#" class="mob-menu__link"
+									>Главный редактор, редколегия и редсовет</a
 								>
 							</li>
 							<li class="mob-menu__item">
-								<a
-									href="tel:+79384447020"
-									class="mob-menu__link"
-									onclick="toggle()"
-									>г.Минеральные Воды, пр.Карла Маркса, 37</a
+								<a href="#" class="mob-menu__link mob-menu__show"
+									>Нормативно-правовая база <span class="sp__arrow-d"></span></a
 								>
+								<ul>
+									<li class="quicklinks-item"><a href="#">Закон о средствах массовой информации</a></li>
+									<li class="quicklinks-item">
+										<a href="#">Положение о журнале</a>
+									</li>
+									<li class="quicklinks-item">
+										<a href="#">Правила направления, рецензирования и опубликование научных статей</a>
+									</li>								
+								</ul>
 							</li>
 							<li class="mob-menu__item">
 								<a
-									href="tel:+79324310111"
-									class="mob-menu__link"
-									onclick="toggle()"
-									>г.Георгиевск, ул.Салогубова, 8</a
+									href="#"
+									class="mob-menu__link mob-menu__show"
+									>Авторам <span class="sp__arrow-d"></span></a
 								>
+								<ul>
+									<li class="quicklinks-item"><a href="#">Авторам</a></li>
+									<li class="quicklinks-item">
+										<a href="#">Договор о передачи прав на опубликование</a>
+									</li>
+									<li class="quicklinks-item">
+										<a href="#">Разрешение на опубликование индивидуальных сведений об авторе</a>
+									</li>
+									<li class="quicklinks-item">
+										<a href="#">Сведения об авторе</a>
+									</li>
+									<li class="quicklinks-item">
+										<a href="#">Резенция</a>
+									</li>
+									<li class="quicklinks-item">
+										<a href="#">Этический кодекс</a>
+									</li>
+								</ul>
 							</li>
+							<li class="mob-menu__item">
+								<a
+									href="#"
+									class="mob-menu__link mob-menu__show"
+									>Архивы <span class="sp__arrow-d"></span></a
+								>
+								<ul>
+									<li class="quicklinks-item"><a href="#">2019</a></li>
+									<li class="quicklinks-item">
+										<a href="#">2020</a>
+									</li>
+									<li class="quicklinks-item">
+										<a href="#">2021</a>
+									</li>
+								</ul>
+							</li>
+							
 							<li class="mob-menu__item">
 								<a
 									href="tel:+79289515163"
 									class="mob-menu__link"
 									onclick="toggle()"
-									>г.Пятигорск, ул.Дзержинского, 47</a
+									>Ретракция</a
 								>
 							</li>
 							<li class="mob-menu__item">
 								<a
-									href="tel:+79614636005"
+									href="#"
 									class="mob-menu__link"
 									onclick="toggle()"
-									>г.Пятигорск, ул.Ессентукская, 29 Б</a
+									>Ru/<span>En</span></a
 								>
-							</li>              
+							</li>  
 						</ul>
 					</div>
 				</div>
@@ -143,7 +178,7 @@
 	<section class="hero-section set-bg" data-setbg="img/bg.jpg">
 		<div class="container">
 			<div class="hero-text text-white">
-				<h2>Экономические и гуманитарные исследования регионов</h2>
+				<h2 class="hero-section__h2">Экономические и гуманитарные исследования регионов</h2>
 			</div>
 			<!-- <div class="row">
 				<div class="col-lg-10 offset-lg-1">
@@ -960,4 +995,5 @@
 	<script src="js/circle-progress.min.js"></script>
 	<script src="js/owl.carousel.min.js"></script>
 	<script src="js/main.js"></script>
+	<script src="js/elem-show.js"></script>
 </html>
