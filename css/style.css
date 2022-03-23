@@ -121,16 +121,16 @@ ol {
   font-weight: 600;
   margin-bottom: 25px;
   color: rgb(37, 10, 10);
-  text-decoration: underline;
   cursor: pointer;
-
 }
+
 
 .section-title a {
   color: #6d6868;
   text-decoration: underline;
   cursor: pointer;
 }
+
 
 
 .section-title p {
