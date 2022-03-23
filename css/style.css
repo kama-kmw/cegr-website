@@ -426,6 +426,12 @@ ol {
   gap: 30px;
 }
 
+.categorie__item-box {
+  overflow: hidden;
+  height: 350px;
+  overflow-y: auto;
+}
+
 .categories-section .container {
   margin-bottom: -34px;
 }
