@@ -120,7 +120,18 @@ ol {
   font-size: 48px;
   font-weight: 600;
   margin-bottom: 25px;
+  color: rgb(37, 10, 10);
+  text-decoration: underline;
+  cursor: pointer;
+
 }
+
+.section-title a {
+  color: #6d6868;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 
 .section-title p {
   margin-bottom: 0;
@@ -136,6 +147,13 @@ ol {
 .spad {
   padding-top: 70px;
   padding-bottom: 70px;
+  
+}
+
+.banner-fon {
+  background-color: rgb(236, 244, 246);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .text-white h1,
@@ -808,7 +826,6 @@ ol {
 ---------------------*/
 
 .footer-section {
-  border-top: 3px solid #d82a4e;
 }
 
 .footer-warp {
