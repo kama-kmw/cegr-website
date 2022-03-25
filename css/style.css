@@ -292,7 +292,7 @@ ol {
   width: 100%;
   top: 0;
   left: 0;
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 .header-box {
@@ -306,9 +306,10 @@ ol {
 }
 
 .logo__text {
-  color: #f44336;
+  color: #fff;
   padding-top: 20px;
-  font-size: 16px;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .logo__lang {
@@ -320,6 +321,7 @@ ol {
 .main-menu {
   width: 100%;
   background-color: rgba(0, 0, 0, 0.35);
+  padding: 0 15px;
 
 }
 
@@ -1616,7 +1618,7 @@ ol {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .main-menu ul li a {
-    margin-left: 38px;
+    /* margin-left: 38px; */
   }
   .header-btn {
     min-width: 160px;

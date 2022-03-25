@@ -12,7 +12,7 @@
     height: 100vh;
     text-align: left;
     overflow: auto;
-    background: rgba(44, 43, 43, 0.85);
+    background: rgba(44, 43, 43, 0.97);
     flex-direction: column;
     transform: translateY(-100%);
     opacity: 0;
@@ -35,7 +35,7 @@
   }
 
   .mob-menu__item .logo__text {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 700;
     margin-top: 10px;
     margin-bottom: 24px;
@@ -58,5 +58,6 @@
     color: #fff;
     letter-spacing: 2px;
     text-decoration: none;
+    font-weight: bold;
   }
 }
