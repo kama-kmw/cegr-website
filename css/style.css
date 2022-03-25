@@ -124,6 +124,11 @@ ol {
   cursor: pointer;
 }
 
+.section-title__link {
+  font-size: 35px;
+  font-weight: bold;
+}
+
 
 .section-title a {
   color: #6d6868;
@@ -1840,6 +1845,14 @@ ol {
     width: 100%;
     margin-bottom: 15px;
     border-right: none;
+  }
+
+  .section-title__link {
+    font-size: 25px;
+  }
+
+  .subtitle__link {
+    font-size: 20px;
   }
 }
 
