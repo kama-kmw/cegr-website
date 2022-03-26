@@ -384,6 +384,26 @@ ol {
 	transition: 0.5s;
 }
 
+.sub-menu__subpoint {
+  position: absolute;
+  width: 100%;
+  min-width: 200px;
+  left: -200px;
+  top: -55px;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+	transition: 0.5s;
+  display: none;
+}
+.sub-menu__item:hover  .sub-menu__subpoint{
+  display: block;
+} 
+
+
+
+
 .header-btn {
   float: right;
   margin-right: 0;

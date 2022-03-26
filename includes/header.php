@@ -25,21 +25,51 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="courses.html">Авторам</a>
+                    <li><a href="#">Авторам</a>
                         <ul class="sub-menu">
-                            <li><a href="#s1">Авторам</a></li>
-                            <li><a href="#s2">Договор о передачи прав на опубликование</a></li>
-                            <li><a href="#s3">Разрешение на опубликование индивидуальных сведений об авторе</a></li>
-                            <li><a href="#s3">Сведения об авторе</a></li>
-                            <li><a href="#s3">Резенция</a></li>
-                            <li><a href="#s3">Этический кодекс</a></li>
+                            <li><a href="#">Авторам</a></li>
+                            <li><a href="#">Договор о передачи прав на опубликование</a></li>
+                            <li><a href="#">Разрешение на опубликование индивидуальных сведений об авторе</a></li>
+                            <li><a href="#">Сведения об авторе</a></li>
+                            <li><a href="#">Резенция</a></li>
+                            <li><a href="#">Этический кодекс</a></li>
                         </ul>
                     </li>
-                    <li><a href="blog.html">Архивы</a>
+                    <li><a href="#">Архивы</a>
                         <ul class="sub-menu">
-                            <li><a href="#s1">2019</a></li>
-                            <li><a href="#s2">2020</a></li>
-                            <li><a href="#s3">2021</a></li>
+                            <li class='sub-menu__item'>
+                                <a href="#">2019</a>
+                                <ul class="sub-menu__subpoint">
+                                    <li><a href="#">Выпуск №1</a></li>
+                                    <li><a href="#">Выпуск №2</a></li>
+                                    <li><a href="#">Выпуск №3</a></li>
+                                    <li><a href="#">Выпуск №4</a></li>
+                                    <li><a href="#">Выпуск №5</a></li>
+                                    <li><a href="#">Выпуск №6</a></li>
+                                </ul>
+                            </li>
+                            <li class='sub-menu__item'>
+                                <a href="#">2020</a>
+                                <ul class="sub-menu__subpoint">
+                                    <li><a href="#">Выпуск №1</a></li>
+                                    <li><a href="#">Выпуск №2</a></li>
+                                    <li><a href="#">Выпуск №3</a></li>
+                                    <li><a href="#">Выпуск №4</a></li>
+                                    <li><a href="#">Выпуск №5</a></li>
+                                    <li><a href="#">Выпуск №6</a></li>
+                                </ul>
+                            </li>
+                            <li class='sub-menu__item'>
+                                <a href="#">2021</a>
+                                <ul class="sub-menu__subpoint">
+                                    <li><a href="#">Выпуск №1</a></li>
+                                    <li><a href="#">Выпуск №2</a></li>
+                                    <li><a href="#">Выпуск №3</a></li>
+                                    <li><a href="#">Выпуск №4</a></li>
+                                    <li><a href="#">Выпуск №5</a></li>
+                                    <li><a href="#">Выпуск №6</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </li>
                     <li><a href="retraction.php">Ретракция</a></li>
@@ -94,12 +124,44 @@
                         <li class="mob-menu__item">
                             <a href="#" class="mob-menu__link mob-menu__show">Архивы <span class="sp__arrow-d"></span></a>
                             <ul>
-                                <li class="quicklinks-item"><a href="#">2019</a></li>
                                 <li class="quicklinks-item">
-                                    <a href="#">2020</a>
+                                    <a href="#" class='mob-menu__show-sub'>2019
+                                        <span class="sp__arrow-d"></span>
+                                    </a>
+                                    <ul>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №1</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №2</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №3</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №4</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №5</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №6</a></li>
+                                    </ul>
                                 </li>
                                 <li class="quicklinks-item">
-                                    <a href="#">2021</a>
+                                    <a href="#" class='mob-menu__show-sub'>2020
+                                        <span class="sp__arrow-d"></span>
+                                    </a>
+                                    <ul>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №1</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №2</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №3</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №4</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №5</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №6</a></li>
+                                    </ul>
+                                </li>
+                                <li class="quicklinks-item">
+                                    <a href="#" class='mob-menu__show-sub'>2021
+                                        <span class="sp__arrow-d"></span>
+                                    </a>
+                                    <ul>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №1</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №2</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №3</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №4</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №5</a></li>
+                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №6</a></li>
+                                    </ul>
                                 </li>
                             </ul>
                         </li>
