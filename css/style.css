@@ -401,6 +401,7 @@ ol {
 
 .hero-section {
   height: 948px;
+  overflow: hidden;
 }
 
 .hero-text {

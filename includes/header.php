@@ -14,14 +14,14 @@
                         <a href="/">Главная</a>
                     </li>
                     <li>
-                        <a href="index.html">Главный редактор, редколегия и редсовет</a>
+                        <a href="redcolegiya.php">Главный редактор, редколегия и редсовет</a>
                     </li>
                     <li>
                         <a href="#">Нормативно-правовая база</a>
                         <ul class="sub-menu">
-                            <li><a href="#s1">Закон о средствах массовой информации</a></li>
-                            <li><a href="#s2">Положение о журнале</a></li>
-                            <li><a href="#s3">Правила направления, рецензирования и опубликование научных статей</a>
+                            <li><a href="smi.php">Закон о средствах массовой информации</a></li>
+                            <li><a href="about-journal.php">Положение о журнале</a></li>
+                            <li><a href="rules.php">Правила направления, рецензирования и опубликование научных статей</a>
                             </li>
                         </ul>
                     </li>
@@ -42,7 +42,7 @@
                             <li><a href="#s3">2021</a></li>
                         </ul>
                     </li>
-                    <li><a href="contact.html">Ретракция</a></li>
+                    <li><a href="retraction.php">Ретракция</a></li>
                     <li><a href="#">Ru/<span>En</span></a></li>
                 </ul>
             </nav>
@@ -58,18 +58,18 @@
                             </a>
                         </li>
                         <li class="mob-menu__item">
-                            <a href="#" class="mob-menu__link">Главный редактор, редколегия и редсовет</a>
+                            <a href="redcolegiya.php" class="mob-menu__link">Главный редактор, редколегия и редсовет</a>
                         </li>
                         <li class="mob-menu__item">
                             <a href="#" class="mob-menu__link mob-menu__show">Нормативно-правовая база <span class="sp__arrow-d"></span></a>
                             <ul>
-                                <li class="quicklinks-item"><a href="#">Закон о средствах массовой информации</a>
+                                <li class="quicklinks-item"><a href="smi.php">Закон о средствах массовой информации</a>
                                 </li>
                                 <li class="quicklinks-item">
-                                    <a href="#">Положение о журнале</a>
+                                    <a href="about-journal.php">Положение о журнале</a>
                                 </li>
                                 <li class="quicklinks-item">
-                                    <a href="#">Правила направления, рецензирования и опубликование научных
+                                    <a href="rules.php">Правила направления, рецензирования и опубликование научных
                                         статей</a>
                                 </li>
                             </ul>
@@ -109,7 +109,7 @@
                         </li>
 
                         <li class="mob-menu__item">
-                            <a href="tel:+79289515163" class="mob-menu__link" onclick="toggle()">Ретракция</a>
+                            <a href="retraction.php" class="mob-menu__link">Ретракция</a>
                         </li>
                         <li class="mob-menu__item">
                             <a href="#" class="mob-menu__link" onclick="toggle()">Ru/<span>En</span></a>

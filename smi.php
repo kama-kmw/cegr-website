@@ -2,9 +2,9 @@
 <html lang="ru">
 
 <head>
-	<title>Экономические и гуманитарные исследования регионов</title>
+	<title>Закон о средствах массовой инвормации</title>
 	<meta charset="UTF-8">
-	<meta name="description" content="Экономические и гуманитарные исследования регионов">
+	<meta name="description" content="Главный редактор, редколегия и редсовет CEGR.ru">
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Favicon -->
@@ -17,6 +17,7 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css" />
 	<link rel="stylesheet" href="css/owl.carousel.css" />
 	<link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/main.css" />
 	<link rel="stylesheet" href="css/toggle.css">
 	<link rel="stylesheet" href="css/mobmenu.css">
 	<link rel="stylesheet" href="css/elem-show.css">
@@ -29,11 +30,10 @@
 	</div>
 
 	<?php
-	$title_page = 'Экономические и гуманитарные исследования регионов';
+    $title_page = 'Закон о средствах массовой инвормации';
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';
-    include_once 'includes/categories-section.php';
-    include_once 'includes/courses-section.php';
+    include_once 'includes/smi-main.php';
     include_once 'includes/banner-section.php';
     include_once 'includes/footer.php';
     ?>
