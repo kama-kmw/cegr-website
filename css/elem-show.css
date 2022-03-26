@@ -22,12 +22,18 @@
 }
 
 .quicklinks-item a {
-  color: #fff;
   text-decoration: none;
+  font-weight: 700;
+  color: #fff;
   
 }
 
 .quicklinks-sub__item {
   display: none;
   padding-top: 15px;
+}
+
+.quicklinks-sub__item a {
+  font-weight: 700;
+  color: #fff;
 }

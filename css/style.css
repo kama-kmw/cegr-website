@@ -388,7 +388,7 @@ ol {
   position: absolute;
   width: 100%;
   min-width: 200px;
-  left: -200px;
+  left: -200px; 
   top: -55px;
   display: flex;
   flex-direction: column;
