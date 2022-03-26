@@ -86,8 +86,11 @@ textarea:focus {
   font-style: italic;
 }
 
+a {
+  transition: 0.3s;
+}
 a:hover {
-  color: #d82a4e;
+  color: #BC9467 !important;
 }
 
 a:hover,
