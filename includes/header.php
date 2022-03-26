@@ -31,7 +31,7 @@
                             <li><a href="#">Договор о передачи прав на опубликование</a></li>
                             <li><a href="#">Разрешение на опубликование индивидуальных сведений об авторе</a></li>
                             <li><a href="#">Сведения об авторе</a></li>
-                            <li><a href="#">Резенция</a></li>
+                            <li><a href="recenzia.php">Резенция</a></li>
                             <li><a href="#">Этический кодекс</a></li>
                         </ul>
                     </li>
@@ -114,7 +114,7 @@
                                     <a href="#">Сведения об авторе</a>
                                 </li>
                                 <li class="quicklinks-item">
-                                    <a href="#">Резенция</a>
+                                    <a href="recenzia.php">Резенция</a>
                                 </li>
                                 <li class="quicklinks-item">
                                     <a href="#">Этический кодекс</a>
