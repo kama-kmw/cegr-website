@@ -48,12 +48,12 @@
 
 .toggle-box {
   display: none;
-  padding-left: auto;
+  margin-left: auto;
   
 }
 
 @media (max-width: 1024px) {
   .toggle-box {
-    display: block;
+    display: flex;
   }
 }

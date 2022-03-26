@@ -136,7 +136,7 @@
                 </td>
 
                 <td style="border-style: none solid solid none; border-color: -moz-use-text-color black black -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 4cm;" width="151">
-                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
+                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
                             <o:p></o:p>
                         </span></p>
 
@@ -168,7 +168,7 @@
                     <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);">(471)
                             27 июня 2011. Режим доступа:<o:p></o:p></span></p>
 
-                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><a href="http://www.acexpert.ru/archive/25-471/ostraya-nedostatochnost.html" target="_blank"><span style="font-size: 9pt; " lang="EN-US">http</span><span style="font-size: 9pt; ">://</span><span style="font-size: 9pt; " lang="EN-US">www</span><span style="font-size: 9pt; ">.</span><span style="font-size: 9pt; " lang="EN-US">acexpert</span><span style="font-size: 9pt; ">.</span><span style="font-size: 9pt; " lang="EN-US">ru</span><span style="font-size: 9pt; ">/</span><span style="font-size: 9pt; " lang="EN-US">archive</span><span style="font-size: 9pt; ">/25-471/</span><span style="font-size: 9pt; " lang="EN-US">ostraya</span><span style="font-size: 9pt; ">-</span><span style="font-size: 9pt; " lang="EN-US">nedostatochnost</span><span style="font-size: 9pt; ">.</span><span style="font-size: 9pt; " lang="EN-US">html</span></a><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
+                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><a href="http://www.acexpert.ru/archive/25-471/ostraya-nedostatochnost.html" target="_blank"><span style="font-size: 9pt; " >http</span><span style="font-size: 9pt; ">://</span><span style="font-size: 9pt; " >www</span><span style="font-size: 9pt; ">.</span><span style="font-size: 9pt; " >acexpert</span><span style="font-size: 9pt; ">.</span><span style="font-size: 9pt; " >ru</span><span style="font-size: 9pt; ">/</span><span style="font-size: 9pt; " >archive</span><span style="font-size: 9pt; ">/25-471/</span><span style="font-size: 9pt; " >ostraya</span><span style="font-size: 9pt; ">-</span><span style="font-size: 9pt; " >nedostatochnost</span><span style="font-size: 9pt; ">.</span><span style="font-size: 9pt; " >html</span></a><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
                             <o:p></o:p>
                         </span></p>
 
@@ -256,7 +256,7 @@
                 </td>
 
                 <td style="border-style: none solid solid none; border-color: -moz-use-text-color black black -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 4cm;" width="151">
-                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
+                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
                             <o:p></o:p>
                         </span></p>
 
@@ -385,7 +385,7 @@
                             <o:p>&nbsp;</o:p>
                         </span></p>
 
-                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
+                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
                             <o:p></o:p>
                         </span></p>
 
@@ -516,7 +516,7 @@
                             <o:p>&nbsp;</o:p>
                         </span></p>
 
-                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
+                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
                             <o:p></o:p>
                         </span></p>
 
@@ -643,7 +643,7 @@
                             <o:p>&nbsp;</o:p>
                         </span></p>
 
-                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
+                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
                             <o:p></o:p>
                         </span></p>
 
@@ -750,7 +750,7 @@
                             <o:p>&nbsp;</o:p>
                         </span></p>
 
-                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" lang="EN-US">htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
+                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >http</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">://</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >cegr</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >ru</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">/</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >retraction</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">.</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);" >htm</span><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
                             <o:p></o:p>
                         </span></p>
 
@@ -970,7 +970,7 @@
                 </td>
 
                 <td style="border-style: none solid solid none; border-color: -moz-use-text-color black black -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 4cm;" width="151">
-                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><a href="http://cegr.ru/retraction.php" target="_blank"><span style="font-size: 9pt; " lang="EN-US">http</span><span style="font-size: 9pt; ">://</span><span style="font-size: 9pt; " lang="EN-US">cegr</span><span style="font-size: 9pt; ">.</span><span style="font-size: 9pt; " lang="EN-US">ru</span><span style="font-size: 9pt; ">/</span><span style="font-size: 9pt; " lang="EN-US">retraction</span></a><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
+                    <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><a href="http://cegr.ru/retraction.php" target="_blank"><span style="font-size: 9pt; " >http</span><span style="font-size: 9pt; ">://</span><span style="font-size: 9pt; " >cegr</span><span style="font-size: 9pt; ">.</span><span style="font-size: 9pt; " >ru</span><span style="font-size: 9pt; ">/</span><span style="font-size: 9pt; " >retraction</span></a><span style="font-size: 9pt;  color: rgb(26, 23, 27);">
                             <o:p></o:p>
                         </span></p>
 

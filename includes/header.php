@@ -51,11 +51,7 @@
                 <div class="mob-container">
                     <ul class="mob-menu">
                         <li class="mob-menu__item logo">
-                            <a href="#" class="mob-menu__link">
-                                <!-- <h1 class="logo__title">Официальный сайт</h1> -->
-                                <p class="logo__text">Экономические и гуманитарные <br>
-                                    исследования регионов</p>
-                            </a>
+                            <a href="/" class="mob-menu__link">Главная</a>
                         </li>
                         <li class="mob-menu__item">
                             <a href="redcolegiya.php" class="mob-menu__link">Главный редактор, редколегия и редсовет</a>

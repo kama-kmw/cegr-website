@@ -102,10 +102,6 @@ ol {
   margin: 0;
 }
 
-.lang {
-  display: none;
-}
-
 /*---------------------
   Helper CSS
 -----------------------*/
@@ -325,9 +321,8 @@ ol {
 
 .main-menu {
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.35);
-  padding: 0 15px;
-
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 0;
 }
 
 .main-menu__items {
@@ -345,18 +340,20 @@ ol {
 .main-menu ul li a {
   display: inline-block;
   font-size: 16px;
+  font-weight: bold;
   color: #fff;
-  font-weight: 600;
-  padding: 30px 0;
+  padding: 30px 15px;
+  transition: .4s;
 }
 
-/* .main-menu ul li a:hover {
-  color: #d82a4e;
-} */
+.main-menu ul li a:hover {
+  color: #BC9467;
+}
 
 .sub-menu {
   position: absolute;
-  width: 150px;
+  width: 100%;
+  min-width: 200px;
   left: 1px;
   display: flex;
   flex-direction: column;
@@ -367,18 +364,16 @@ ol {
 
 }
 
-.sub-menu li a {
-  margin-bottom: -1px;
-  border-bottom: 1px solid #e5e5e5;
+.main-menu .sub-menu li a {
 	width: 100%;
 	display: block;
-  background-color: rgba(0, 0, 0, 0.85);
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 15px;
 }
 
 
-.sub-menu li a:hover {
-  color: rgb(245, 244, 244);
-  /* background-color: rgba(0, 0, 0, 0.65); */
+.main-menu .sub-menu li a:hover {
+  background-color: #000;
 }
 
 .main-menu ul li:hover .sub-menu  {

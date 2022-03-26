@@ -44,20 +44,30 @@
   .mob-menu__item {
     text-align: center;
     padding: 16px 0;
-    font-size: 17px;
+    font-size: 16px;
     border-bottom: 1px solid rgba(235, 184, 71, 0.2);
     list-style-type: none;
 
   }
+  .mob-menu__item:first-of-type {
+    padding-top: 0;
+  }
 
-  .mob-menu__item:first-child {
+  .mob-menu__item:last-child {
     border-bottom: none;
   }
 
   .mob-menu__link {
+    height: 16px;
+    font-size: 16px;
+    line-height: 1;
     color: #fff;
     letter-spacing: 2px;
     text-decoration: none;
     font-weight: bold;
+    transition: .3s;
+  }
+  .mob-menu__link:hover {
+    color: #BC9467;
   }
 }
