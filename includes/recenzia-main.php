@@ -721,7 +721,7 @@ h2
 	mso-fareast-font-family:"Times New Roman";
 	color:#4F81BD;
 	mso-fareast-language:EN-US;}
-a:link, span.MsoHyperlink
+/* a:link, span.MsoHyperlink
 	{mso-style-parent:"";
 	color:blue;
 	text-decoration:underline;
@@ -732,7 +732,7 @@ a:visited, span.MsoHyperlinkFollowed
 	color:#954F72;
 	mso-themecolor:followedhyperlink;
 	text-decoration:underline;
-	text-underline:single;}
+	text-underline:single;} */
 p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	{mso-style-priority:34;
 	mso-style-unhide:no;
