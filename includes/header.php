@@ -28,7 +28,7 @@
                     <li><a href="#">Авторам</a>
                         <ul class="sub-menu">
                             <li><a href="#">Авторам</a></li>
-                            <li><a href="#">Договор о передачи прав на опубликование</a></li>
+                            <li><a href="license-agreement.php">Договор о передачи прав на опубликование</a></li>
                             <li><a href="#">Разрешение на опубликование индивидуальных сведений об авторе</a></li>
                             <li><a href="#">Сведения об авторе</a></li>
                             <li><a href="recenzia.php">Резенция</a></li>
@@ -105,7 +105,7 @@
                             <ul>
                                 <li class="quicklinks-item"><a href="#">Авторам</a></li>
                                 <li class="quicklinks-item">
-                                    <a href="#">Договор о передачи прав на опубликование</a>
+                                    <a href="license-agreement.php">Договор о передачи прав на опубликование</a>
                                 </li>
                                 <li class="quicklinks-item">
                                     <a href="#">Разрешение на опубликование индивидуальных сведений об авторе</a>
