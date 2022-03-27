@@ -30,7 +30,7 @@
 	</div>
 
 	<?php
-    $title_page = 'Закон о средствах массовой инвормации';
+    $title_page = 'Закон о средствах массовой информации';
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';
     include_once 'includes/smi-main.php';
