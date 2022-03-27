@@ -27,12 +27,12 @@
                     </li>
                     <li><a href="#">Авторам</a>
                         <ul class="sub-menu">
-                            <li><a href="#">Авторам</a></li>
+                            <li><a href="article-rule.php">Авторам</a></li>
                             <li><a href="license-agreement.php">Договор о передачи прав на опубликование</a></li>
-                            <li><a href="#">Разрешение на опубликование индивидуальных сведений об авторе</a></li>
-                            <li><a href="#">Сведения об авторе</a></li>
+                            <li><a href="agrement.php">Разрешение на опубликование индивидуальных сведений об авторе</a></li>
+                            <li><a href="about-author.php">Сведения об авторе</a></li>
                             <li><a href="recenzia.php">Резенция</a></li>
-                            <li><a href="#">Этический кодекс</a></li>
+                            <li><a href="etic-code.php">Этический кодекс</a></li>
                         </ul>
                     </li>
                     <li><a href="#">Архивы</a>

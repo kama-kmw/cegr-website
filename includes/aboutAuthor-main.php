@@ -10,32 +10,32 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List
-href="ЭТИЧЕСКИЙ%20КОДЕКС%20НАУЧНЫХ%20ПУБЛИКАЦИЙ.fld/filelist.xml">
+<link rel=File-List href="сведения%20об%20авторе.fld/filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
-  <o:Author>Елена Говердовская</o:Author>
+  <o:Author>Nanised</o:Author>
   <o:LastAuthor>Microsoft Office User</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>1</o:TotalTime>
-  <o:Created>2022-03-27T14:42:00Z</o:Created>
-  <o:LastSaved>2022-03-27T14:42:00Z</o:LastSaved>
+  <o:TotalTime>2</o:TotalTime>
+  <o:Created>2022-03-27T14:33:00Z</o:Created>
+  <o:LastSaved>2022-03-27T14:33:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>929</o:Words>
-  <o:Characters>5299</o:Characters>
-  <o:Lines>44</o:Lines>
-  <o:Paragraphs>12</o:Paragraphs>
-  <o:CharactersWithSpaces>6216</o:CharactersWithSpaces>
+  <o:Words>75</o:Words>
+  <o:Characters>433</o:Characters>
+  <o:Company>Curnos™</o:Company>
+  <o:Lines>3</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>507</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
+  <o:TargetScreenSize>800x600</o:TargetScreenSize>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=themeData
-href="ЭТИЧЕСКИЙ%20КОДЕКС%20НАУЧНЫХ%20ПУБЛИКАЦИЙ.fld/themedata.thmx">
+<link rel=themeData href="сведения%20об%20авторе.fld/themedata.thmx">
 <link rel=colorSchemeMapping
-href="ЭТИЧЕСКИЙ%20КОДЕКС%20НАУЧНЫХ%20ПУБЛИКАЦИЙ.fld/colorschememapping.xml">
+href="сведения%20об%20авторе.fld/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
@@ -56,17 +56,26 @@ href="ЭТИЧЕСКИЙ%20КОДЕКС%20НАУЧНЫХ%20ПУБЛИКАЦИ�
    <w:SnapToGridInCell/>
    <w:WrapTextWithPunct/>
    <w:UseAsianBreakRules/>
+   <w:UseWord2010TableStyleRules/>
    <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
+   <w:DontUseIndentAsNumberingTabStop/>
+   <w:FELineBreak11/>
+   <w:WW11IndentRules/>
+   <w:DontAutofitConstrainedTables/>
+   <w:AutofitLikeWW11/>
+   <w:HangulWidthLikeWW11/>
+   <w:UseNormalStyleForList/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
   </w:Compatibility>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
    <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
+   <m:smallFrac/>
    <m:dispDef/>
    <m:lMargin m:val="0"/>
    <m:rMargin m:val="0"/>
@@ -245,8 +254,8 @@ href="ЭТИЧЕСКИЙ%20КОДЕКС%20НАУЧНЫХ%20ПУБЛИКАЦИ�
    Name="Body Text Indent 3"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Hyperlink"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="FollowedHyperlink"/>
   <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
@@ -381,7 +390,7 @@ href="ЭТИЧЕСКИЙ%20КОДЕКС%20НАУЧНЫХ%20ПУБЛИКАЦИ�
    Name="Table Web 3"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" Priority="59" Name="Table Grid"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Table Theme"/>
   <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
@@ -672,6 +681,13 @@ href="ЭТИЧЕСКИЙ%20КОДЕКС%20НАУЧНЫХ%20ПУБЛИКАЦИ�
 	mso-generic-font-family:swiss;
 	mso-font-pitch:variable;
 	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073743103 0 0 415 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -679,97 +695,351 @@ href="ЭТИЧЕСКИЙ%20КОДЕКС%20НАУЧНЫХ%20ПУБЛИКАЦИ�
 	mso-style-parent:"";
 	margin-top:0cm;
 	margin-right:0cm;
-	margin-bottom:8.0pt;
+	margin-bottom:10.0pt;
 	margin-left:0cm;
-	line-height:107%;
+	line-height:115%;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
-h1
+h2
 	{mso-style-priority:9;
-	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Заголовок 1 Знак";
-	mso-margin-top-alt:auto;
+	mso-style-link:"Заголовок 2 Знак";
+	mso-style-next:Обычный;
+	margin-top:10.0pt;
 	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
+	margin-bottom:0cm;
 	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	mso-outline-level:1;
-	font-size:24.0pt;
-	font-family:"Times New Roman",serif;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:13.0pt;
+	font-family:"Cambria",serif;
 	mso-fareast-font-family:"Times New Roman";
-	font-weight:bold;}
-p
+	color:#4F81BD;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-parent:"";
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
 	{mso-style-noshow:yes;
 	mso-style-priority:99;
-	mso-margin-top-alt:auto;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0cm;
 	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
 	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";}
-span.1
-	{mso-style-name:"Заголовок 1 Знак";
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.ConsPlusTitle, li.ConsPlusTitle, div.ConsPlusTitle
+	{mso-style-name:ConsPlusTitle;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-parent:"";
+	margin:0cm;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Arial",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+span.2
+	{mso-style-name:"Заголовок 2 Знак";
 	mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Заголовок 1";
-	mso-ansi-font-size:24.0pt;
-	mso-bidi-font-size:24.0pt;
-	font-family:"Times New Roman",serif;
-	mso-ascii-font-family:"Times New Roman";
+	mso-style-parent:"";
+	mso-style-link:"Заголовок 2";
+	mso-ansi-font-size:13.0pt;
+	mso-bidi-font-size:13.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
 	mso-fareast-font-family:"Times New Roman";
-	mso-hansi-font-family:"Times New Roman";
+	mso-hansi-font-family:Cambria;
 	mso-bidi-font-family:"Times New Roman";
-	mso-font-kerning:18.0pt;
-	mso-fareast-language:RU;
+	color:#4F81BD;
 	font-weight:bold;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
+span.b-mail-dropdownitemmarker
+	{mso-style-name:b-mail-dropdown__item__marker;
+	mso-style-unhide:no;}
 span.GramE
 	{mso-style-name:"";
 	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
-	font-size:11.0pt;
-	mso-ansi-font-size:11.0pt;
-	mso-bidi-font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;}
-.MsoPapDefault
-	{mso-style-type:export-only;
-	margin-bottom:8.0pt;
-	line-height:107%;}
+	mso-hansi-font-family:Calibri;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
-	margin:2.0cm 42.5pt 2.0cm 3.0cm;
-	mso-header-margin:35.4pt;
-	mso-footer-margin:35.4pt;
+	margin:2.0cm 2.0cm 2.0cm 2.0cm;
+	mso-header-margin:35.45pt;
+	mso-footer-margin:35.45pt;
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:52776742;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-837529400 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:83114429;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-306305478 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2
+	{mso-list-id:771780274;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-495310866 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l2:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l3
+	{mso-list-id:858543662;
+	mso-list-type:hybrid;
+	mso-list-template-ids:810445984 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l3:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l3:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l3:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
 -->
 </style>
 <!--[if gte mso 10]>
@@ -781,23 +1051,30 @@ div.WordSection1
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
 	mso-style-priority:99;
+	mso-style-qformat:yes;
 	mso-style-parent:"";
 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:8.0pt;
-	mso-para-margin-left:0cm;
-	line-height:107%;
+	mso-para-margin:0cm;
 	mso-pagination:widow-orphan;
-	font-size:11.0pt;
+	font-size:10.0pt;
 	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;}
+	mso-bidi-font-family:"Times New Roman";}
+table.MsoTableGrid
+	{mso-style-name:"Сетка таблицы";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:59;
+	mso-style-unhide:no;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1026"/>
@@ -807,267 +1084,295 @@ div.WordSection1
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body lang=RU style='tab-interval:35.4pt;word-wrap:break-word'>
+<body lang=RU link=blue vlink="#954F72" style='tab-interval:35.4pt;word-wrap:
+break-word'>
 
 <div class=WordSection1>
 
-<p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>ЭТИЧЕСКИЙ КОДЕКС НАУЧНЫХ ПУБЛИКАЦИЙ</span></b><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-color:black;mso-fareast-language:RU'><o:p></o:p></span></p>
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=997
+ style='width:747.75pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:3.0pt 3.0pt 3.0pt 3.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=631 style='width:473.4pt;padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  text-align:justify;line-height:18.0pt'><b><span style='font-size:14.0pt;
+  font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+  mso-fareast-language:RU'>: СВЕДЕНИЯ ОБ АВТОРЕ</span></b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+  "Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></p>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=631
+   style='width:473.4pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+   mso-padding-alt:0cm 0cm 0cm 0cm'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Фамилия&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+    style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+    "Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border:solid windowtext 1.0pt;
+    border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;margin-left:-5.4pt;text-align:justify;line-height:18.0pt'><span
+    style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+    "Times New Roman";mso-fareast-language:RU'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+    style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+    "Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Имя</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Отчество</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Место работы</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>(полностью с указанием почтового адреса с <span
+    class=GramE>индексом )</span><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Направление научного исследования и его шифр</span><span
+    style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+    "Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:5'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Рубрика <span class=GramE>журнала(</span></span><span
+    style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>философия, культурология, политология,, история,
+    философия,&nbsp; политология, экономика, педагогика, психология, филология,
+    социология)</span><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
+    mso-fareast-font-family:"Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:6'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Должность</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:7'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Ученая степень</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:8'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Ученое звание</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:9'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span lang=EN-US
+    style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+    "Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:RU'>E-mail</span><span
+    style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+    "Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:10'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Контактный телефон</span><span style='font-size:
+    12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes'>
+    <td width=293 valign=top style='width:219.85pt;border:solid windowtext 1.0pt;
+    border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>Адрес для рассылки журнала</span><span
+    style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+    "Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></p>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>(полностью с указанием почтового адреса с <span
+    class=GramE>индексом )</span><o:p></o:p></span></p>
+    </td>
+    <td width=338 valign=top style='width:253.55pt;border-top:none;border-left:
+    none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+    padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:justify;line-height:18.0pt'><span style='font-size:14.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'>&nbsp;</span><span style='font-size:12.0pt;
+    font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+    mso-fareast-language:RU'><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+ </tr>
+</table>
 
-<p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:#404040;mso-fareast-language:
-RU'>&nbsp;</span><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>Этические принципы</span></b><span style='font-size:12.0pt;font-family:
-"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black;
-mso-fareast-language:RU'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>подготовки научной статьи</span></b><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-color:black;mso-fareast-language:RU'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:
-35.4pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:
-35.4pt;line-height:normal'><span class=GramE><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-color:black;mso-fareast-language:RU'>Авторы&nbsp;&nbsp;должны</span></span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'> подавать на
-рецензирование&nbsp;&nbsp;и публикацию в журнале «Экономические и гуманитарные
-исследования регионов»&nbsp;&nbsp;оригинальные статьи. <span class=GramE>Заимствования&nbsp;&nbsp;авторы</span>
-должны&nbsp;&nbsp;оформлять&nbsp;&nbsp;с обязательным указанием автора и
-первоисточника. Плагиат в любых формах, в том числе неоформленные цитаты, а
-также присвоение прав на результаты чужих <span class=GramE>исследований&nbsp;&nbsp;недопустимы</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-class=GramE><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>Авторы&nbsp;&nbsp;обязаны</span></span><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-color:black;mso-fareast-language:RU'> указывать вклад всех лиц, чьи работы
-легли в основу исследования. Лица, не принимавшие участие в исследовании, в
-качестве соавторов не указываются. Авторы обязаны <span class=GramE>основываться&nbsp;&nbsp;исключительно</span>
-на достоверных результатах проведенных исследований. В журнал «Экономические и
-гуманитарные исследования регионов» не принимаются для <span class=GramE>публикации&nbsp;&nbsp;ранее</span>
-опубликованные работы.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>Авторам <span
-class=GramE>необходимо&nbsp;&nbsp;прилагать</span>&nbsp;&nbsp;к статье свои
-персональные данные (место работы, адрес места работы, должность, e-<span
-class=SpellE>mail</span>), которые разрешаются к опубликованию в журнале.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>Все статьи, <span
-class=GramE>направленные&nbsp;&nbsp;в</span> журнал «Экономические и
-гуманитарные исследования регионов» направляются на рецензирование (имена
-рецензентов&nbsp;&nbsp;не сообщаются автору). Авторы обязуются сотрудничать по
-вопросу устранения замечаний. В случае обнаружения ошибок или неточностей в
-статье, которая находится <span class=GramE>на&nbsp;&nbsp;рецензировании</span>
-или уже опубликована, авторы должны в кратчайшие сроки оповестить об этом
-редакцию журнала.<o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>Этические принципы</span></b><span style='font-size:12.0pt;font-family:
-"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black;
-mso-fareast-language:RU'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>взаимодействия автора и редакции</span></b><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-color:black;mso-fareast-language:RU'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>Редакционная коллегия и
-редакционный совет журнала «Экономические и гуманитарные исследования регионов»
-руководствуется в своей деятельности положениями главы 70 «Авторское право»
-Гражданского Кодекса РФ.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>Редакционная коллегия и
-редакционный совет журнала «Экономические и гуманитарные исследования регионов»
-обязана обеспечивать соответствие академическим стандартам, предотвращать
-конфликт <span class=GramE>интересов ,</span> быть готовой опубликовать в
-случае необходимости поправки, опровержения и извинения.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>Редакционная коллегия и
-редакционный совет журнала «Экономические и гуманитарные исследования регионов»
-не <span class=GramE>принимает&nbsp;&nbsp;статьи</span>, носящие политический
-характер, содержащие пристрастные и некорректные оценки других научных работ и
-других специалистов. При принятии решения о допуске статьи к публикации
-редакционная коллегия и редакционный совет журнала «Экономические и
-гуманитарные исследования регионов» оценивает только содержание статьи вне
-зависимости от расовой принадлежности автора, его пола, сексуальной ориентации,
-политических и религиозных взглядов, социального происхождения и гражданства.
-Редакционная коллегия и редакционный совет журнала «Экономические и
-гуманитарные исследования регионов», принимая решение о публикации статьи,
-руководствуется достоверностью данных; научной значимостью и научной новизной
-представленной работы.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>В случае обнаружения в
-статье элементов копирования из других научных трудов (плагиата) или фактов
-публикации авторами одной и той же статьи в разных журналах, редакционная
-коллегия и редакционный совет журнала «Экономические и гуманитарные исследования
-регионов» предпринимает меры к выяснению причин этого нарушения этики
-публикаций, сообщает об этом факте авторов и оставляет за собой право снять
-статью с публикации и в дальнейшем не допускать к рассмотрению статьи таких
-авторов.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>Редакционная коллегия и
-редакционный совет журнала «Экономические и гуманитарные исследования регионов»
-соблюдает конфиденциальность предоставленных статей: не используют полученные
-для публикации материалы для передачи третьим лицам или в личных <span
-class=GramE>целях&nbsp;&nbsp;без</span> письменного согласия авторов. На все
-претензии авторов редакционная коллегия и редакционный совет журнала
-«Экономические и гуманитарные исследования регионов» предоставляет ответы,
-стараясь <span class=GramE>разрешить&nbsp;&nbsp;конфликтные</span> ситуации.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'><span
-style='mso-spacerun:yes'>                    </span><b>Этические принципы
-работы рецензента</b><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>Редакционная коллегия и
-редакционный совет журнала «Экономические и гуманитарные исследования регионов»
-<span class=GramE>направляет&nbsp;&nbsp;все</span> присланные статьи на
-рецензирование двум&nbsp;&nbsp;рецензентам. Рецензирование проводится по
-«слепому методу», рецензенты не знают имени автора. Рецензенты обязаны давать
-объективную и аргументированную оценку изложенным результатам исследования.
-Персональная критика автора не допускается. Неопубликованные данные, полученные
-из представленных к рассмотрению <span class=GramE>рукописей,&nbsp;&nbsp;рецензентам</span>
-запрещено использовать для личных целей.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>Рецензент, который не
-обладает, по его мнению, достаточной квалификацией для оценки <span
-class=GramE>рукописи,&nbsp;&nbsp;&nbsp;</span>не может быть объективным по
-каким-то причинам, должен сообщить об этом главному редактору журнала
-«Экономические и гуманитарные исследования регионов»&nbsp;&nbsp;с просьбой
-исключить его из процесса рецензирования данной рукописи. Рецензенты должны
-избегать конфликта интересов в отношении авторов рецензируемой статьи,
-описанных в ней исследований или организации, которая финансировала эти
-исследования.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:4.6pt;text-align:justify;text-indent:30.8pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";color:black;mso-fareast-language:RU'>Результатом рассмотрения
-статьи рецензентами является вывод о возможности ее публикации – в
-представленном виде, с доработкой, после принципиальной переработки (с
-повторным рассмотрением) или об ее отклонении. Этот вывод утверждается редакционной
-<span class=GramE>коллегией&nbsp;&nbsp;и</span> редакционным советом журнала
-«Экономические и гуманитарные исследования регионов». По результатам
-рецензирования автору <span class=GramE>(&nbsp;&nbsp;в</span> случае
-необходимости доработать статью)&nbsp;&nbsp;направляется отзыв с указанием
-недоработок&nbsp;&nbsp;&nbsp;и времени, в&nbsp;&nbsp;течение&nbsp;&nbsp;которого
-их&nbsp;&nbsp;&nbsp;&nbsp;необходимо исправить.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-normal;mso-outline-level:1'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-font-kerning:18.0pt;
-mso-fareast-language:RU'>&nbsp;<b><o:p></o:p></b></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal;mso-outline-level:1'><b><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-color:black;mso-font-kerning:18.0pt;mso-fareast-language:RU'>Порядок
-рецензирования статей<o:p></o:p></span></b></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:
-35.4pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:
-35.4pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>Все статьи, поступившие в журнал «Экономические и гуманитарные исследования
-регионов<span class=GramE>»,&nbsp;&nbsp;проверяются</span> на плагиат
-(оригинальность должна составлять не менее 80%), рецензируются членами
-редакционной коллегии и редакционного совета журнала «Экономические и
-гуманитарные исследования регионов» - докторами наук по соответствующей
-специальности,&nbsp;&nbsp;далее подвергаются корректорской правке. Все правки
-согласовываются с автором статьи.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:
-35.4pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>При получении <span class=GramE>статьи&nbsp;&nbsp;специалист</span> журнала
-определяет соответствие статьи профилю журнала, требованиям к оформлению и
-направляет статью на рецензирование
-двум&nbsp;&nbsp;членам&nbsp;&nbsp;редакционной коллегии
-или&nbsp;&nbsp;редакционного совета журнала «Экономические и гуманитарные
-исследования регионов» —докторам наук, имеющим наиболее близкую к теме статьи
-научную специализацию.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:
-35.4pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-RU'>Срок рецензирования статьи - 20 дней.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 </div>
 
