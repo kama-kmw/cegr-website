@@ -27,7 +27,7 @@
                     </li>
                     <li><a href="#">Авторам</a>
                         <ul class="sub-menu">
-                            <li><a href="article-rule.php">Авторам</a></li>
+                            <li><a href="author.php">Авторам</a></li>
                             <li><a href="license-agreement.php">Договор о передачи прав на опубликование</a></li>
                             <li><a href="agrement.php">Разрешение на опубликование индивидуальных сведений об авторе</a></li>
                             <li><a href="about-author.php">Сведения об авторе</a></li>

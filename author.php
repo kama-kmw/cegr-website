@@ -30,10 +30,10 @@
 	</div>
 
 	<?php
-    $title_page = 'Сведения об авторе';
+    $title_page = 'Правила направления научных статей в журнал «Экономические и гуманитарные исследования регионов»';
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';
-    include_once 'includes/aboutAutor-main.php';
+    include_once 'includes/author-main.php';
     include_once 'includes/banner-section.php';
     include_once 'includes/footer.php';
     ?>

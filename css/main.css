@@ -21,6 +21,20 @@
     margin-bottom: 15px;
     color: #333;
 }
+
+.main a {
+  display: inline-block;
+  background-color: blue;
+  color: rgb(173, 10, 10);
+  padding: 2.75rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 700;
+  transition: 0.4s;
+  width: 200px;
+  height: 70px;
+}
+
+
 @media (max-width: 576px) {
     .main h2{
         padding: 20 10px;
