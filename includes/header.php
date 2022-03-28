@@ -73,7 +73,10 @@
                         </ul>
                     </li>
                     <li><a href="retraction.php">Ретракция</a></li>
-                    <li><a href="#">Ru/<span>En</span></a></li>
+                    <li class="js-change-lang rus">
+                        <span class="lang-en"><img src="img/logo/eng-flag.png"></span>
+                        <span class="lang-ru"><img src="img/logo/rus-flag.png"></span>
+                    </li>
                 </ul>
             </nav>
             <div class="toggle-box">
@@ -169,8 +172,9 @@
                         <li class="mob-menu__item">
                             <a href="retraction.php" class="mob-menu__link">Ретракция</a>
                         </li>
-                        <li class="mob-menu__item">
-                            <a href="#" class="mob-menu__link" onclick="toggle()">Ru/<span>En</span></a>
+                        <li class="js-change-lang rus">
+                            <span class="lang-en"><img src="img/logo/eng-flag.png"></span>
+                            <span class="lang-ru"><img src="img/logo/rus-flag.png"></span>
                         </li>
                     </ul>
                 </div>

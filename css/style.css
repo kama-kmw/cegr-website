@@ -351,6 +351,7 @@ ol {
 
 .main-menu ul li a:hover {
   color: #BC9467;
+  cursor: pointer;
 }
 
 .sub-menu {
@@ -1987,5 +1988,35 @@ ol {
   }
   .contact-info-area .social-links a {
     margin-right: 10px;
+  }
+}
+.lang-en {
+  display: none;
+}
+.js-change-lang {
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  padding: 30px 15px;
+  transition: .4s;
+  text-align: center;
+}
+.js-change-lang img {
+  height: 20px;
+}
+
+.main-menu ul li span:hover {
+  color: #BC9467;
+  cursor: pointer;
+}
+@media (max-width: 1024px) {
+  .js-change-lang {
+    /* display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    padding: 30px 15px;
+    transition: .4s; */
   }
 }
