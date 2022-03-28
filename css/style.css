@@ -859,8 +859,6 @@ ol {
   Footer section
 ---------------------*/
 
-.footer-section {
-}
 
 .footer-warp {
   max-width: 1559px;
@@ -1644,9 +1642,6 @@ ol {
 /* Medium screen : 992px. */
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .main-menu ul li a {
-    /* margin-left: 38px; */
-  }
   .header-btn {
     min-width: 160px;
   }
@@ -2011,14 +2006,4 @@ ol {
 .main-menu ul li span:hover {
   color: #BC9467;
   cursor: pointer;
-}
-@media (max-width: 1024px) {
-  .js-change-lang {
-    /* display: inline-block;
-    font-size: 16px;
-    font-weight: bold;
-    color: #fff;
-    padding: 30px 15px;
-    transition: .4s; */
-  }
 }

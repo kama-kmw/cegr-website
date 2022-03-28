@@ -16,7 +16,7 @@
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';
     include 'includes/licenseAgreement-main.php';
-    include 'includes/banner-section.php';
+    // include 'includes/banner-section.php';
     include_once 'includes/footer.php';
 	include_once 'includes/js.php';
     ?>

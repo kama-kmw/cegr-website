@@ -16,7 +16,7 @@
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';
     include_once 'includes/eticCode-main.php';
-    include_once 'includes/banner-section.php';
+    // include_once 'includes/banner-section.php';
     include_once 'includes/footer.php';
 	include_once 'includes/js.php';
     ?>
