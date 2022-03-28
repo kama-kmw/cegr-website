@@ -2,40 +2,67 @@
 <header class="header-section">
     <div class="container-box">
         <div class="header-box">
-            <!-- <div class="logo-block">
-					<a href="/" class="menu__link">
-						<h3 class="logo__title">Официальный сайт
-						</h3>
-					</a>
-				</div> -->
             <nav class="main-menu">
                 <ul class="main-menu__items">
                     <li>
-                        <a href="/">Главная</a>
+                        <a href="/" class="main-menu__link lang-ru">Главная</a>
+                        <a href="/" class="main-menu__link lang-en">Main</a>
                     </li>
                     <li>
-                        <a href="redcolegiya.php">Главный редактор, редколегия и редсовет</a>
+                        <a href="redcolegiya.php" class="main-menu__link lang-ru">Редколегия</a>
+                        <a href="redcolegiya.php" class="main-menu__link lang-en">Editorial Board</a>
                     </li>
                     <li>
-                        <a href="#">Нормативно-правовая база</a>
+                        <a href="#" class="main-menu__link lang-ru">Нормативно-правовая база</a>
+                        <a href="#" class="main-menu__link lang-en">Regulatory framework</a>
                         <ul class="sub-menu">
-                            <li><a href="smi.php">Закон о средствах массовой информации</a></li>
-                            <li><a href="about-journal.php">Положение о журнале</a></li>
-                            <li><a href="rules.php">Правила направления, рецензирования и опубликование научных статей</a>
+                            <li>
+                                <a href="smi.php" class="main-menu__link lang-ru">Закон о средствах массовой информации</a>
+                                <a href="smi.php" class="main-menu__link lang-en">The Law on Mass Media</a>
+                            </li>
+                            <li>
+                                <a href="about-journal.php" class="main-menu__link lang-ru">Положение о журнале</a>
+                                <a href="about-journal.php" class="main-menu__link lang-en">Regulations on the journal</a>
+                            </li>
+                            <li>
+                                <a href="rules.php" class="main-menu__link lang-ru">Правила рецензирования</a>
+                                <a href="rules.php" class="main-menu__link lang-en">Review rules</a>
                             </li>
                         </ul>
                     </li>
-                    <li><a href="#">Авторам</a>
+                    <li>
+                        <a href="#" class="main-menu__link lang-ru">Авторам</a>
+                        <a href="#" class="main-menu__link lang-en">To the authors</a>
                         <ul class="sub-menu">
-                            <li><a href="article-rule.php">Авторам</a></li>
-                            <li><a href="license-agreement.php">Договор о передачи прав на опубликование</a></li>
-                            <li><a href="agrement.php">Разрешение на опубликование индивидуальных сведений об авторе</a></li>
-                            <li><a href="about-author.php">Сведения об авторе</a></li>
-                            <li><a href="recenzia.php">Резенция</a></li>
-                            <li><a href="etic-code.php">Этический кодекс</a></li>
+                            <li>
+                                <a href="article-rule.php" class="main-menu__link lang-ru">Правила оформления научных статей</a>
+                                <a href="article-rule.php" class="main-menu__link lang-en">Rules for the design of scientific articles</a>
+                            </li>
+                            <li>
+                                <a href="license-agreement.php" class="main-menu__link lang-ru">Договор о передачи прав на опубликование</a>
+                                <a href="license-agreement.php" class="main-menu__link lang-en">Agreement on the transfer of publishing rights</a>
+                            </li>
+                            <li>
+                                <a href="agrement.php" class="main-menu__link lang-ru">Разрешение на опубликование индивидуальных сведений об авторе</a>
+                                <a href="agrement.php" class="main-menu__link lang-en">Permission to publish individual information about the author</a>
+                            </li>
+                            <li>
+                                <a href="about-author.php" class="main-menu__link lang-ru">Сведения об авторе</a>
+                                <a href="about-author.php" class="main-menu__link lang-en">Information about the author</a>
+                            </li>
+                            <li>
+                                <a href="recenzia.php" class="main-menu__link lang-ru">Рецензия</a>
+                                <a href="recenzia.php" class="main-menu__link lang-en">Review</a>
+                            </li>
+                            <li>
+                                <a href="etic-code.php" class="main-menu__link lang-ru">Этический кодекс</a>
+                                <a href="etic-code.php" class="main-menu__link lang-en">Code of Ethics</a>
+                            </li>
                         </ul>
                     </li>
-                    <li><a href="#">Архивы</a>
+                    <li>
+                        <a href="#">Архивы</a>
+                        <a href="#">Архивы</a>
                         <ul class="sub-menu">
                             <li class='sub-menu__item'>
                                 <a href="#">2019</a>
