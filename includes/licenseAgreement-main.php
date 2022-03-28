@@ -179,7 +179,7 @@
 
 
     <p style="margin-left: 36pt; text-align: justify; text-indent: -18pt;">
-      <span style="font-size: 10pt;"><span >-<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;  ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span style="font-size: 10pt;"><span >-<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;  ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </span></span></span>
       <span style="font-size: 10pt;">произведение
         предоставлено в виде &nbsp;электронного документа на дискете или флэш-носителе;</span>
@@ -195,7 +195,7 @@
 
 
     <p style="margin-left: 36pt; text-indent: -18pt;">
-      <span style="font-size: 10pt;"><span >-<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;  ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span style="font-size: 10pt;"><span >-<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;  ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </span></span></span>
       <span style="font-size: 10pt;">рисунки и
         картинки предоставлены отдельно в формате (ISO/IEC 12639:1998) или, если
@@ -204,7 +204,7 @@
 
 
     <p style="margin-left: 36pt; text-indent: -18pt;">
-      <span style="font-size: 10pt;"><span >-<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;  ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span style="font-size: 10pt;"><span >-<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;  ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </span></span></span>
       <span style="font-size: 10pt;">другие, требуемые
         редакцией журнала <span >&nbsp;</span>«Экономические и гуманитарные
