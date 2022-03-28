@@ -30,7 +30,7 @@
 	</div>
 
 	<?php
-    $title_page = 'Договор о передаче  прав на опубликование';
+    $title_page = 'Договор о передаче прав на опубликование';
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';
     include_once 'includes/licenseAgreement-main.php';

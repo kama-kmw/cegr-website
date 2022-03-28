@@ -30,7 +30,7 @@
 	</div>
 
 	<?php
-    $title_page = 'О ЖУРНАЛЕ «ЭКОНОМИЧЕСКИЕ И ГУМАНИТАРНЫЕ ИССЛЕДОВАНИЯ РЕГИОНОВ»';
+    $title_page = 'ПОЛОЖЕНИЕ О ЖУРНАЛЕ «ЭКОНОМИЧЕСКИЕ И ГУМАНИТАРНЫЕ ИССЛЕДОВАНИЯ РЕГИОНОВ»';
 
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';

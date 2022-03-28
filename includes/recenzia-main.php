@@ -1,602 +1,869 @@
 <main class="main">
-<table class="MsoTableGrid" style="border: medium none ; width: 100%; border-collapse: collapse;" border="1" cellpadding="0" cellspacing="0" width="100%">
+  <table class="MsoTableGrid" style="border: medium none ; width: 100%; border-collapse: collapse;" border="1" cellpadding="0" cellspacing="0" width="100%">
 
-<tbody>
-                                 <tr style="">
+    <tbody>
+      <tr style="">
 
- <td rowspan="2" style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Критерии
- оценки</span></b><b style=""><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p></o:p></span></b></p>
+        <td rowspan="2" style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; ">Критерии
+                оценки</span></b><b style=""><span style="font-size: 14pt; " lang="EN-US">
+                <o:p></o:p>
+              </span></b></p>
 
- <td colspan="4" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 25.9%;" valign="top" width="25%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Оценка в баллах<o:p></o:p></span></b></p>
+        </td>
 
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">(отметить знаком «+»)<o:p></o:p></span></p>
+        <td colspan="4" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 25.9%;" valign="top" width="25%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; ">Оценка в баллах<o:p></o:p></span></b></p>
 
- <td rowspan="2" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Краткий
- комментарий к оценке </span></b><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">(1-3 предложения)</span><b style=""><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></b></p>
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">(отметить знаком «+»)<o:p></o:p></span></p>
 
-</tr>
+        </td>
 
-<tr style="">
+        <td rowspan="2" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">5<o:p></o:p></span></b></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; ">Краткий
+                комментарий к оценке </span></b><span style="font-size: 12pt; ">(1-3 предложения)</span><b style=""><span style="font-size: 14pt; ">
+                <o:p></o:p>
+              </span></b></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">4<o:p></o:p></span></b></p>
+      </tr>
 
- </td>
+      <tr style="">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">3</span></b><b style=""><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p></o:p></span></b></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; ">5<o:p></o:p></span></b></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">2<o:p></o:p></span></b></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
-</tr>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; ">4<o:p></o:p></span></b></p>
 
-<tr style="">
+        </td>
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Актуальность темы<o:p></o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; ">3</span></b><b style=""><span style="font-size: 14pt; " lang="EN-US">
+                <o:p></o:p>
+              </span></b></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 14pt; ">2<o:p></o:p></span></b></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+      </tr>
 
- </td>
+      <tr style="">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">Актуальность темы<o:p></o:p></span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
 
-</tr>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
-<tr style="">
+        </td>
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Научная новизна работы<o:p></o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
-</tr>
+      </tr>
 
-<tr style="">
+      <tr style="">
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Определение цели работы<o:p></o:p></span></p>
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">Научная новизна работы<o:p></o:p></span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
-</tr>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
-<tr style="">
+        </td>
 
- <td rowspan="4" style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Соответствие шифру </span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">научной специальности и отрасль науки, по которым
- присуждаются ученые степени<o:p></o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">(Необходимо отметить знаком «+»
- соответствие не менее одному шифру научной специальности)</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td colspan="4" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 25.9%;" valign="top" width="25%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+      </tr>
 
-</tr>
+      <tr style="">
 
-<tr style="">
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
- <td colspan="4" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 25.9%;" valign="top" width="25%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">Определение цели работы<o:p></o:p></span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
-</tr>
+        </td>
 
-<tr style="">
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td colspan="4" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 25.9%;" valign="top" width="25%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
-</tr>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
-<tr style="height: 28.1pt;">
+        </td>
 
- <td colspan="4" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 25.9%; height: 28.1pt;" valign="top" width="25%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
 
- </td>
+      </tr>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%; height: 28.1pt;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+      <tr style="">
 
- </td>
+        <td rowspan="4" style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
-</tr>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">Соответствие шифру </span><span style="font-size: 12pt; ">научной специальности и отрасль науки, по которым
+              присуждаются ученые степени<o:p></o:p></span></p>
 
-<tr style="">
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;">Структура статьи</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;"><o:p></o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">(Необходимо отметить знаком «+»
+              соответствие не менее одному шифру научной специальности)</span><span style="font-size: 12pt; ">
+              <o:p></o:p>
+            </span></p>
 
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;">(разделы, параграфы,
- примечания)</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+        </td>
 
- </td>
+        <td colspan="4" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 25.9%;" valign="top" width="25%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></b></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+      </tr>
 
- </td>
+      <tr style="">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
+        <td colspan="4" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 25.9%;" valign="top" width="25%">
 
-</tr>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
-<tr style="">
+        </td>
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;">Соответствие введения и заключения
- целям и содержанию работы</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+      </tr>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+      <tr style="">
 
- </td>
+        <td colspan="4" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 25.9%;" valign="top" width="25%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
-</tr>
+        </td>
 
-<tr style="">
+      </tr>
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Полнота и целостность представленного материала<o:p></o:p></span></p>
+      <tr style="height: 28.1pt;">
 
- </td>
+        <td colspan="4" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 25.9%; height: 28.1pt;" valign="top" width="25%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%; height: 28.1pt;" valign="top" width="37%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+      </tr>
 
- </td>
+      <tr style="">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
-</tr>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt;  color: black;">Структура статьи</span><span style="font-size: 12pt;  color: black;">
+              <o:p></o:p>
+            </span></p>
 
-<tr style="">
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;">Доказательность</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p></o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt;  color: black;">(разделы, параграфы,
+              примечания)</span><span style="font-size: 12pt; ">
+              <o:p></o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 12pt; ">
+                <o:p>&nbsp;</o:p>
+              </span></b></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
-</tr>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
-<tr style="">
+        </td>
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Соответствие исследованиям, проведенным другими авторами, и
- представленными в ссылках<o:p></o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
 
- </td>
+      </tr>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+      <tr style="">
 
- </td>
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt;  color: black;">Соответствие введения и заключения
+              целям и содержанию работы</span><span style="font-size: 12pt; ">
+              <o:p></o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
-</tr>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
-<tr style="">
+        </td>
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;">Соответствие темы
- интересам читательской аудитории журнала, ясность изложения</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;"><o:p></o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
 
- </td>
+      </tr>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+      <tr style="">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">Полнота и целостность представленного материала<o:p></o:p></span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
+        </td>
 
-</tr>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
 
-<tr style="">
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;">Категориальный аппарат и
- терминология</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;" lang="EN-US"><o:p></o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+      </tr>
 
- </td>
+      <tr style="">
 
-</tr>
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
-<tr style="">
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt;  color: black;">Доказательность</span><span style="font-size: 12pt; " lang="EN-US">
+              <o:p></o:p>
+            </span></p>
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;">Грамматика</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p></o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
-</tr>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
 
-<tr style="">
+      </tr>
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;">Синтаксис</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p></o:p></span></p>
+      <tr style="">
 
- </td>
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">Соответствие исследованиям, проведенным другими авторами, и
+              представленными в ссылках<o:p></o:p></span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
-</tr>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
-<tr style="">
+        </td>
 
- <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: black;">Соблюдение этических норм</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p></o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
 
- </td>
+      </tr>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+      <tr style="">
 
- </td>
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt;  color: black;">Соответствие темы
+              интересам читательской аудитории журнала, ясность изложения</span><span style="font-size: 12pt;  color: black;">
+              <o:p></o:p>
+            </span></p>
 
- </td>
+        </td>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
 
- </td>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+        </td>
 
- </td>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
 
- <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
- 
-                                   <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
 
- </td>
+        </td>
 
-</tr>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
 
-                               </tbody>
-                             </table>
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%"></td>
+
+      </tr>
+
+      <tr style="">
+
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt;  color: black;">Категориальный аппарат и
+              терминология</span><span style="font-size: 12pt;  color: black;" lang="EN-US">
+              <o:p></o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+      </tr>
+
+      <tr style="">
+
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt;  color: black;">Грамматика</span><span style="font-size: 12pt; " lang="EN-US">
+              <o:p></o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%"></td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+      </tr>
+
+      <tr style="">
+
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt;  color: black;">Синтаксис</span><span style="font-size: 12pt; " lang="EN-US">
+              <o:p></o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+      </tr>
+
+      <tr style="">
+
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 36.16%;" valign="top" width="36%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt;  color: black;">Соблюдение этических норм</span><span style="font-size: 12pt; " lang="EN-US">
+              <o:p></o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.4%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 6.5%;" valign="top" width="6%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; " lang="EN-US">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37.92%;" valign="top" width="37%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+      </tr>
+
+    </tbody>
+  </table>
+  <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><b><span style="font-size: 12pt;  color: black;">Рекомендации: нет</span></b><span style="font-size: 12pt; " lang="EN-US">
+      <o:p></o:p>
+    </span></p>
+
+  <table class="MsoTableGrid" style="border: medium none ; width: 99.26%; border-collapse: collapse;" border="1" cellpadding="0" cellspacing="0" width="99%">
+
+    <tbody>
+      <tr style="">
+
+        <td style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 29.76%;" valign="top" width="29%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">Общая оценка соответствия требованиям
+              (100%)</span><span style="font-size: 12pt; " lang="EN-NZ">
+              <o:p></o:p>
+            </span></p>
+
+        </td>
+
+        <td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 50.46%;" valign="top" width="50%">
+
+          <p class="MsoListParagraphCxSpFirst" style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 0cm; line-height: normal;">
+            <!--[if !supportLists]--><span style="font-size: 12pt; "><span style="">1.<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span></span></span>
+            <!--[endif]--><span style="font-size: 12pt; ">Соответствие
+              тематике журнала<o:p></o:p></span>
+          </p>
+
+
+          <p class="MsoListParagraphCxSpMiddle" style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 0cm; line-height: normal;">
+            <!--[if !supportLists]--><span style="font-size: 12pt; "><span style="">2.<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span></span></span>
+            <!--[endif]--><span style="font-size: 12pt; ">Актуальность<o:p></o:p></span>
+          </p>
+
+
+          <p class="MsoListParagraphCxSpMiddle" style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 0cm; line-height: normal;">
+            <!--[if !supportLists]--><span style="font-size: 12pt; "><span style="">3.<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span></span></span>
+            <!--[endif]--><span style="font-size: 12pt; ">Новизна<o:p></o:p></span>
+          </p>
+
+
+          <p class="MsoListParagraphCxSpMiddle" style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 0cm; line-height: normal;">
+            <!--[if !supportLists]--><span style="font-size: 12pt; "><span style="">4.<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span></span></span>
+            <!--[endif]--><span style="font-size: 12pt; ">Теоретический
+              уровень<o:p></o:p></span>
+          </p>
+
+
+          <p class="MsoListParagraphCxSpLast" style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 0cm; line-height: normal;">
+            <!--[if !supportLists]--><span style="font-size: 12pt; "><span style="">5.<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span></span></span>
+            <!--[endif]--><span style="font-size: 12pt; ">Грамотность<o:p></o:p></span>
+          </p>
+
+        </td>
+
+        <td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.78%;" valign="top" width="19%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">
+              <o:p>&nbsp;</o:p>
+            </span></p>
+
+        </td>
+
+      </tr>
+
+      <tr style="height: 21.75pt;">
+
+        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 29.76%; height: 21.75pt;" valign="top" width="29%">
+
+          <p  style="margin-bottom: 0.0001pt; text-align: justify; line-height: normal;"><span style="font-size: 12pt; ">Заключение<o:p></o:p></span></p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 50.46%; height: 21.75pt;" valign="top" width="50%">
+
+          <p class="MsoListParagraphCxSpFirst" style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 0cm; line-height: normal;">
+            <!--[if !supportLists]--><span style="font-size: 12pt; "><span style="">1.<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span></span></span>
+            <!--[endif]--><span style="font-size: 12pt; ">Рекомендовать к
+              печати<o:p></o:p></span>
+          </p>
+
+
+          <p class="MsoListParagraphCxSpMiddle" style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 0cm; line-height: normal;">
+            <!--[if !supportLists]--><span style="font-size: 12pt; "><span style="">2.<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span></span></span>
+            <!--[endif]--><span style="font-size: 12pt; ">Рекомендовать к
+              печати после внесения исправлений<o:p></o:p></span>
+          </p>
+
+
+          <p class="MsoListParagraphCxSpMiddle" style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 0cm; line-height: normal;">
+            <!--[if !supportLists]--><span style="font-size: 12pt; "><span style="">3.<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span></span></span>
+            <!--[endif]--><span style="font-size: 12pt; ">Рекомендовать
+              для публикации в другом журнале<o:p></o:p></span>
+          </p>
+
+
+          <p class="MsoListParagraphCxSpMiddle" style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 0cm; line-height: normal;">
+            <!--[if !supportLists]--><span style="font-size: 12pt; "><span style="">4.<span style=" font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span></span></span>
+            <!--[endif]--><span style="font-size: 12pt; ">Не
+              рекомендовать к печати<o:p></o:p></span>
+          </p>
+
+        </td>
+
+        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.78%; height: 21.75pt;" valign="top" width="19%">
+
+          <p class="MsoListParagraphCxSpLast" style="margin: 0cm 0cm 0.0001pt; text-align: justify; line-height: normal;"><b style=""><span style="font-size: 12pt; ">
+                <o:p>&nbsp;</o:p>
+              </span></b></p>
+
+        </td>
+
+      </tr>
+
+    </tbody>
+  </table>
+
+  <p>Рецензент:<br>______________<br>«___» января 202__ г</p>
+
+  <a href="docs/recensia.doc" class="button">Скачать</a>
 
 </main>

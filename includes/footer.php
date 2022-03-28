@@ -1,7 +1,7 @@
 <!-- footer section -->
 <footer class="footer-section spad pb-0">
-    <div class="footer-top">
-        <!-- <div class="footer-warp">
+	<div class="footer-top">
+		<!-- <div class="footer-warp">
 				<div class="row">
 					<!-- <div class="widget-item">
 						<h4>Contact Info</h4>
@@ -11,7 +11,7 @@
 							<li>yourmail@gmail.com</li>
 						</ul>
 					</div> -->
-        <!-- <div class="widget-item">
+		<!-- <div class="widget-item">
 						<h4>Engeneering</h4>
 						<ul>
 							<li><a href="">Applied Studies</a></li>
@@ -21,7 +21,7 @@
 							<li><a href="">System Engeneering</a></li>
 						</ul>
 					</div> -->
-        <!-- <div class="widget-item">
+		<!-- <div class="widget-item">
 						<h4>Graphic Design</h4>
 						<ul>
 							<li><a href="">Applied Studies</a></li>
@@ -31,7 +31,7 @@
 							<li><a href="">System Engeneering</a></li>
 						</ul>
 					</div> -->
-        <!-- <div class="widget-item">
+		<!-- <div class="widget-item">
 						<h4>Development</h4>
 						<ul>
 							<li><a href="">Applied Studies</a></li>
@@ -41,7 +41,7 @@
 							<li><a href="">System Engeneering</a></li>
 						</ul>
 					</div> -->
-        <!-- <div class="widget-item">
+		<!-- <div class="widget-item">
 						<h4>Newsletter</h4>
 						<form class="footer-newslatter">
 							<input type="email" placeholder="E-mail">
@@ -49,29 +49,45 @@
 							<p>*We don’t spam</p>
 						</form>
 					</div> -->
-    </div>
-    </div>
-    <div class="footer-contact">
-        <h3 class="footer-contact__subtitle">
-            Контактная информация
-        </h3>
-        <p class="footer-contact__text">
-            Адрес: 357500, Россия, Ставропольский край, г.Пятигорск, ул. Ленина , 116, к.А <br>
-            Электронная почта: <a href="#" class="footer-contact__link">redsov@mail.ru</a>
-        </p>
-    </div>
-    </div>
-    <div class="footer-bottom">
-        <div class="footer-warp">
-            <!-- <ul class="footer-menu">
+	</div>
+	</div>
+	<div class="footer-contact">
+			<h3 class="footer-contact__subtitle">
+				Контактная информация
+			</h3>
+			<p class="footer-contact__text">
+				Адрес: 357500, Россия, Ставропольский край, г.Пятигорск, ул. Ленина , 116, к.А <br>
+				Электронная почта: <a href="#" class="footer-contact__link">redsov@mail.ru</a>
+			</p>
+			<script type="text/javascript">
+				new Image().src = "//counter.yadro.ru/hit?r" +
+					escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+						";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+							screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+					";h" + escape(document.title.substring(0, 150)) +
+					";" + Math.random();
+			</script>
+			<h3 class="footer-contact__subtitle">Счетчик посещений на сайте:</h3>
+			<p class="footer-contact__text">
+			<a href="//www.liveinternet.ru/click" target="_blank"><img src="//counter.yadro.ru/logo?28.12" title="LiveInternet: показано количество просмотров и посетителей" alt="" border="0" height="160" width="120"></a>
+			</p>
+			
+		</div>
+	</div>
+	</div>
+
+	<div class="footer-bottom">
+		<div class="footer-warp">
+			<!-- <ul class="footer-menu">
 					<li><a href="#">Terms & Conditions</a></li>
 					<li><a href="#">Register</a></li>
 					<li><a href="#">Privacy</a></li>
 				</ul> -->
-            <div class="copyrightText">
-                <p class="copyrightText__text">Copyright © 2022. Сайт создан на <a href="http://art-cod.ru">Art-Cod.ru</a></p>
-            </div>
-        </div>
-    </div>
+			<div class="copyrightText">
+				<p class="copyrightText__text">Copyright © 2022. Сайт создан на <a href="http://art-cod.ru">Art-Cod.ru</a></p>
+			</div>
+		</div>
+	</div>
+
 </footer>
 <!-- footer section end -->

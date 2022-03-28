@@ -40,34 +40,34 @@
                             <li class='sub-menu__item'>
                                 <a href="#">2019</a>
                                 <ul class="sub-menu__subpoint">
-                                    <li><a href="#">Выпуск №1</a></li>
-                                    <li><a href="#">Выпуск №2</a></li>
-                                    <li><a href="#">Выпуск №3</a></li>
-                                    <li><a href="#">Выпуск №4</a></li>
-                                    <li><a href="#">Выпуск №5</a></li>
-                                    <li><a href="#">Выпуск №6</a></li>
+                                    <li><a href="docs/journal_1_2019.pdf" target="_blank">Выпуск №1</a></li>
+                                    <li><a href="docs/journal_2_2019.pdf" target="_blank">Выпуск №2</a></li>
+                                    <li><a href="docs/journal_3_2019.pdf" target="_blank">Выпуск №3</a></li>
+                                    <li><a href="docs/journal_4_2019.pdf" target="_blank">Выпуск №4</a></li>
+                                    <li><a href="docs/journal_5_2019.pdf" target="_blank">Выпуск №5</a></li>
+                                    <li><a href="docs/journal_6_2019.pdf" target="_blank">Выпуск №6</a></li>
                                 </ul>
                             </li>
                             <li class='sub-menu__item'>
                                 <a href="#">2020</a>
                                 <ul class="sub-menu__subpoint">
-                                    <li><a href="#">Выпуск №1</a></li>
-                                    <li><a href="#">Выпуск №2</a></li>
-                                    <li><a href="#">Выпуск №3</a></li>
-                                    <li><a href="#">Выпуск №4</a></li>
-                                    <li><a href="#">Выпуск №5</a></li>
-                                    <li><a href="#">Выпуск №6</a></li>
+                                    <li><a href="docs/journal_1_2020.pdf" target="_blank">Выпуск №1</a></li>
+                                    <li><a href="docs/journal_2_2020.pdf" target="_blank">Выпуск №2</a></li>
+                                    <li><a href="docs/journal_3_2020.pdf" target="_blank">Выпуск №3</a></li>
+                                    <li><a href="docs/journal_4_2020.pdf" target="_blank">Выпуск №4</a></li>
+                                    <li><a href="docs/journal_5_2020.pdf" target="_blank">Выпуск №5</a></li>
+                                    <li><a href="docs/journal_6_2020.pdf" target="_blank">Выпуск №6</a></li>
                                 </ul>
                             </li>
                             <li class='sub-menu__item'>
                                 <a href="#">2021</a>
                                 <ul class="sub-menu__subpoint">
-                                    <li><a href="#">Выпуск №1</a></li>
-                                    <li><a href="#">Выпуск №2</a></li>
-                                    <li><a href="#">Выпуск №3</a></li>
-                                    <li><a href="#">Выпуск №4</a></li>
-                                    <li><a href="#">Выпуск №5</a></li>
-                                    <li><a href="#">Выпуск №6</a></li>
+                                    <li><a href="docs/journal_1_2021.pdf" target="_blank">Выпуск №1</a></li>
+                                    <li><a href="docs/journal_2_2021.pdf" target="_blank">Выпуск №2</a></li>
+                                    <li><a href="docs/journal_3_2021.pdf" target="_blank">Выпуск №3</a></li>
+                                    <li><a href="docs/journal_4_2021.pdf" target="_blank">Выпуск №4</a></li>
+                                    <li><a href="docs/journal_5_2021.pdf" target="_blank">Выпуск №5</a></li>
+                                    <li><a href="docs/journal_6_2021.pdf" target="_blank">Выпуск №6</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -129,12 +129,12 @@
                                         <span class="sp__arrow-d"></span>
                                     </a>
                                     <ul>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №1</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №2</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №3</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №4</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №5</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №6</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_1_2019.pdf" target="_blank">Выпуск №1</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_2_2019.pdf" target="_blank">Выпуск №2</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_3_2019.pdf" target="_blank">Выпуск №3</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_4_2019.pdf" target="_blank">Выпуск №4</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_5_2019.pdf" target="_blank">Выпуск №5</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_6_2019.pdf" target="_blank">Выпуск №6</a></li>
                                     </ul>
                                 </li>
                                 <li class="quicklinks-item">
@@ -142,12 +142,12 @@
                                         <span class="sp__arrow-d"></span>
                                     </a>
                                     <ul>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №1</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №2</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №3</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №4</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №5</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №6</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_1_2020.pdf" target="_blank">Выпуск №1</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_2_2020.pdf" target="_blank">Выпуск №2</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_3_2020.pdf" target="_blank">Выпуск №3</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_4_2020.pdf" target="_blank">Выпуск №4</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_5_2020.pdf" target="_blank">Выпуск №5</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_6_2020.pdf" target="_blank">Выпуск №6</a></li>
                                     </ul>
                                 </li>
                                 <li class="quicklinks-item">
@@ -155,12 +155,12 @@
                                         <span class="sp__arrow-d"></span>
                                     </a>
                                     <ul>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №1</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №2</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №3</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №4</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №5</a></li>
-                                        <li class='quicklinks-sub__item'><a href="#">Выпуск №6</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_1_2021.pdf" target="_blank">Выпуск №1</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_2_2021.pdf" target="_blank">Выпуск №2</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_3_2021.pdf" target="_blank">Выпуск №3</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_4_2021.pdf" target="_blank">Выпуск №4</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_5_2021.pdf" target="_blank">Выпуск №5</a></li>
+                                        <li class='quicklinks-sub__item'><a href="docs/journal_6_2021.pdf" target="_blank">Выпуск №6</a></li>
                                     </ul>
                                 </li>
                             </ul>

@@ -131,7 +131,7 @@ ol {
 
 .section-title a {
   color: #6d6868;
-  text-decoration: underline;
+  /* text-decoration: underline; */
   cursor: pointer;
 }
 

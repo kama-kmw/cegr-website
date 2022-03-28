@@ -1,5 +1,5 @@
 <main class="main">
-  <h2>ЛИЦЕНЗИОННЫЙ ДОГОВОР  №</h2>
+  <!-- <h2>ЛИЦЕНЗИОННЫЙ ДОГОВОР  №</h2>
   <h2>О ПЕРЕДАЧЕ НЕИСКЛЮЧИТЕЛЬНЫХ ПРАВ</h2>
   <h2>НА ИСПОЛЬЗОВАНИЕ  ПРОИЗВЕДЕНИЯ</h2>
 
@@ -51,6 +51,334 @@
   <p>5.3. Настоящий Договор может быть расторгнут досрочно в случае неисполнения одной из сторон обязательств по данному Договору, с обязательным предупреждением второй стороны не менее, чем за 3 месяца.</p>
   <p>5.4. Все приложения к настоящему Договору являются его неотъемлемой частью и совершаются в письменной форме. Исправления непосредственно по тексту настоящего Договора не допускаются и не имеют юридической силы.</p>
   <p>5.5. Во всем ином, что не предусмотрено настоящим Договором, стороны руководствуются нормами действующего законодательства.</p>
-  <p>5.6. Адреса и реквизиты сторон:</p>
-  
+  <p>5.6. Адреса и реквизиты сторон:</p> -->
+
+  <div class="Section1">
+
+    <p style="text-align: center;" align="center"><b>ЛИЦЕНЗИОННЫЙ ДОГОВОР №____</b></p>
+
+
+    <p style="text-align: center;" align="center"><b>О ПЕРЕДАЧЕ НЕИСКЛЮЧИТЕЛЬНЫХ ПРАВ</b></p>
+
+
+    <p style="text-align: center;" align="center"><b>НА ИСПОЛЬЗОВАНИЕ ПРОИЗВЕДЕНИЯ</b></p>
+
+
+    <p style="text-align: center;" align="center"><b>
+        &nbsp;
+      </b></p>
+
+
+    <p style="text-align: center;" align="center"><b>
+        &nbsp;
+      </b></p>
+
+
+    <p ><span >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span><span >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>«_____»
+      ___________202__г.</p>
+
+
+    <p style="text-align: center;" align="center">
+      &nbsp;
+    </p>
+
+
+    <p class="MsoBodyText"><span style="font-size: 10pt;">Научно-исследовательский
+        центр социально-гуманитарных проблем Кавказского региона в лице главного
+        редактора научно-теоретического <span >&nbsp;</span>журнала «Экономические
+        и гуманитарные исследования регионов» Несмеянова Евгения Ефимовича ,
+        действующего на основании Устава, с одной стороны, <span >&nbsp;</span>и _____________________________________________________________________________________________</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">именуемый(ая) в дальнейшем «Автор
+        (Лицензиар. Обладатель)», с другой стороны, заключили между собой настоящий
+        Договор.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">
+        &nbsp;
+      </span></p>
+
+
+    <p ><b><span style="font-size: 10pt;">1. ПРЕДМЕТ
+          ДОГОВОРА</span></b></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">1.1. Автор предоставляет Лицензиату неисключительное право
+        на использование созданного им Произведения, выраженного в форме научной статьи</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">_____________________________________________________________________________________________
+        
+      </span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;"><span >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span>(название
+        статьи)</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">_____________________________________________________________________________________________</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">
+        &nbsp;
+      </span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">указанными в п. 1.3 - 1.5 способами, в течение всего срока
+        действия настоящего Договора.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">1.2. Автор гарантирует, что он
+        является надлежащим обладателем авторских и имущественных прав на Произведение,
+        передаваемое Лицензиату по настоящему Договору.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">1.3. Автор предоставляет </span><span style="font-size: 10pt;">Лицензиату </span><span style="font-size: 10pt;">право публикации Произведения в
+        научно-теоретическом<span >&nbsp; </span>журнале
+        «Экономические и гуманитарные исследования регионов», а также создании сетевой
+        электронной версии Произведения на основании электронной версии Произведения,
+        предоставленной Автором.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">1.4. Автор предоставляет </span><span style="font-size: 10pt;">Лицензиату </span><span style="font-size: 10pt;">право на<span >&nbsp;
+        </span>репродуцирование включенного в фонд<span >&nbsp;
+        </span>Научно-исследовательского центра социально-гуманитарных проблем
+        Кавказского региона в виде сетевой электронной публикации Произведения, в том
+        числе право на воспроизведение Произведения и хранение его копий в
+        машиночитаемой форме, а также право на заключение сублицензионных договоров.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">1.5. Автор предоставляет </span><span style="font-size: 10pt;">Лицензиату</span><span style="font-size: 10pt;"><span >&nbsp;
+        </span>неисключительное право на использование произведения через продажу
+        научно-теоретического журнала «Экономические и гуманитарные исследования
+        регионов», распространение его по подписке, предоставление доступа к сетевой
+        краткой или полнотекстовой версии Произведения.<span >&nbsp;
+        </span><span style="color: red;">
+          
+        </span></span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">1.6. Все указанные выше права
+        безвозмездно, без ограничения территории предоставляются Автором </span><span style="font-size: 10pt;">Лицензиату</span><span style="font-size: 10pt;"> сроком на 3 года с возможностью его продления.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">
+        &nbsp;
+      </span></p>
+
+
+    <p ><b><span style="font-size: 10pt;">2. ПОРЯДОК ПЕРЕДАЧИ И ИСПОЛЬЗОВАНИЯ ПРОИЗВЕДЕНИЯ</span></b></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">2.1. Стороны подтверждают,
+        что к моменту подписания настоящего Договора Автор передал </span><span style="font-size: 10pt;">Лицензиату</span><span style="font-size: 10pt;"> Произведение (электронную версию Произведения) в
+        соответствии со следующими условиями:</span></p>
+
+
+    <p style="margin-left: 36pt; text-align: justify; text-indent: -18pt;">
+      <span style="font-size: 10pt;"><span >-<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;  ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          </span></span></span>
+      <span style="font-size: 10pt;">произведение
+        предоставлено в виде &nbsp;электронного документа на дискете или флэш-носителе;</span>
+    </p>
+
+
+    <p class="MsoBodyTextIndent"><span style="font-size: 10pt;">-<span >&nbsp; </span>произведение предоставлено в формате,
+        указанном в требованиях к авторам редакцией журнала «Экономические и
+        гуманитарные исследования регионов»;</span></p>
+
+
+    <p ><span style="font-size: 10pt;"><span >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-<span >&nbsp;&nbsp;&nbsp; </span>таблицы находятся в теле Произведения;</span></p>
+
+
+    <p style="margin-left: 36pt; text-indent: -18pt;">
+      <span style="font-size: 10pt;"><span >-<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;  ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          </span></span></span>
+      <span style="font-size: 10pt;">рисунки и
+        картинки предоставлены отдельно в формате (ISO/IEC 12639:1998) или, если
+        позволяет выбранный формат, в теле произведения;</span>
+    </p>
+
+
+    <p style="margin-left: 36pt; text-indent: -18pt;">
+      <span style="font-size: 10pt;"><span >-<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;  ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          </span></span></span>
+      <span style="font-size: 10pt;">другие, требуемые
+        редакцией журнала <span >&nbsp;</span>«Экономические и гуманитарные
+        исследования регионов» сведения и документы.</span>
+    </p>
+
+
+    <p style="margin-left: 18pt;"><span style="font-size: 10pt;">
+        &nbsp;
+      </span></p>
+
+
+    <p ><b><span style="font-size: 10pt;">3. ПРАВА И ОБЯЗАННОСТИ СТОРОН</span></b></p>
+
+
+    <p ><span style="font-size: 10pt;">3.1.</span><span style="font-size: 10pt;"> Лицензиат</span><span style="font-size: 10pt;"> обязуется:</span></p>
+
+
+    <p ><span style="font-size: 10pt;"><span >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-<span >&nbsp;&nbsp; </span>не<span >&nbsp;
+        </span>представлять переданное Произведение по частям;</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;"><span >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>- не вносить после публикации какие бы
+        то ни было изменения в содержание Произведения без письменного согласия Автора,
+        в том числе в название, иллюстрации, пояснения, комментарии, послесловия и т.п.
+        за исключением случаев, предусмотренных настоящим Договором;</span></p>
+
+
+    <p ><span style="font-size: 10pt;"><span >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-<span >&nbsp; </span>разместить <span >&nbsp;</span>информацию о Произведении на сайте журнала «Экономические
+        и гуманитарные исследования регионов», <span >&nbsp;</span>в
+        каталоге Электронной библиотеки<span >&nbsp; </span></span><span style="font-size: 10pt;" lang="EN-US">e</span><span style="font-size: 10pt;">-</span><span style="font-size: 10pt;" lang="EN-US">library</span><span style="font-size: 10pt;" lang="EN-US">
+      </span><span style="font-size: 10pt;"><span >&nbsp;&nbsp;</span>и
+        обеспечить доступ к нему пользователей на условиях настоящего Договора.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">3.2. </span><span style="font-size: 10pt;">Лицензиат</span><span style="font-size: 10pt;"> вправе:</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;"><span >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>- требовать от Автора предоставления
+        любой необходимой информации о Произведении и получать ее;</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;"><span >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>- переводить (конвертировать)
+        Произведение (электронную версию Произведения), которое включено в фонд <span >&nbsp;</span>в формат, используемый
+        Научно-исследовательским центром социально-гуманитарных проблем Кавказского региона
+        <span >&nbsp;&nbsp;</span>для тематических коллекций фонда
+        электронных ресурсов.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">3.3. Автор обязуется
+        незамедлительно поставить в известность </span><span style="font-size: 10pt;">Лицензиата</span><span style="font-size: 10pt;"> о передаче каких-либо прав на Произведение, включая
+        его электронные версии, третьему лицу.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">3.4. Автор вправе проверять
+        порядок и условия использования Произведения.</span></p>
+
+
+    <p style="margin-left: 18pt; text-align: justify;"><span style="font-size: 10pt;">
+        &nbsp;
+      </span></p>
+
+
+    <p ><b><span style="font-size: 10pt;">4. ПОРЯДОК РАЗРЕШЕНИЯ СПОРОВ. ОТВЕТСТВЕННОСТЬ СТОРОН</span></b></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">4.1. За неисполнение или
+        ненадлежащее исполнение обязательств, предусмотренных настоящим Договором,
+        стороны несут ответственность в соответствии с действующим законодательством.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">4.2. Автор несет
+        ответственность перед </span><span style="font-size: 10pt;">Лицензиатом</span><span style="font-size: 10pt;"> за
+        достоверность сведений об обладателе исключительных авторских прав. В случае
+        предъявления претензий и исков со стороны действительных обладателей авторских
+        прав к </span><span style="font-size: 10pt;">Лицензиату
+      </span><span style="font-size: 10pt;">Автор несет ответственность в
+        соответствии с ГК РФ и УК РФ.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">4.3. </span><span style="font-size: 10pt;">Лицензиат </span><span style="font-size: 10pt;">несет ответственность за соблюдение авторских прав в
+        соответствии с нормами действующего законодательства РФ.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">4.4. Все споры, так или
+        иначе касающиеся настоящего Договора, разрешаются сторонами путем переговоров,
+        а при недостижении согласия - в суде по месту нахождения</span><span style="font-size: 10pt;"> Лицензиата</span><span style="font-size: 10pt;">.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">
+        &nbsp;
+      </span></p>
+
+
+    <p style="text-align: justify;"><b><span style="font-size: 10pt;">5. ЗАКЛЮЧИТЕЛЬНЫЕ
+          ПОЛОЖЕНИЯ</span></b></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">5.1. Настоящий Договор вступает в силу с момента подписания и действует в течение 3 лет.</p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">5.2. Срок действия
+        настоящего Договора автоматически продлевается на каждый следующий 5-х летний
+        срок, если ни одна из сторон не выступила с инициативой его расторжения или
+        изменения не позднее, чем за один месяц до истечения срока его действия.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">5.3. Настоящий Договор
+        может быть расторгнут досрочно в случае неисполнения одной из сторон
+        обязательств по данному Договору, с обязательным предупреждением второй стороны
+        не менее, чем за 3 месяца.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">5.4. Все приложения к
+        настоящему Договору являются его неотъемлемой частью и совершаются в письменной
+        форме. Исправления непосредственно по тексту настоящего Договора не допускаются
+        и не имеют юридической силы.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">5.5. Во всем ином, что не
+        предусмотрено настоящим Договором, стороны руководствуются нормами действующего
+        законодательства.</span></p>
+
+
+    <p style="text-align: justify;"><span style="font-size: 10pt;">5.6. Адреса и реквизиты
+        сторон:</span></p>
+
+
+  </div>
+
+  <table style="border-collapse: collapse;" cellpadding="0" cellspacing="0">
+
+    <tbody>
+      <tr>
+
+        <td style="padding: 20px;" valign="top" width="300">
+          <p><b>Лицензиат</b></p>
+          <p>Общество с ограниченной ответственность "Научно-исследовательский центр социально-гуманитарных проблем Кавказского региона"</p>
+          <p>Адрес 357500, Ставропольский край, г.Пятигорск , ул. Ленина , дом 116А</p>
+          <p>ОГРН 1102632000866</p>
+          <p>ИНН 2632097985</p>
+          <p>КПП 263201001</p>
+          <p>Р/с 40702810500980030421</p>
+          <p>в ФИЛИАЛ "ЦЕНТРАЛЬНЫЙ" БАНКА ВТБ (ПАО)</p>
+          <p>БИК 044525411</p>
+
+          <p>Главный редактор<br>НесмеяновЕ.Е.</p>
+        </td>
+
+        <td style="padding: 20px;" valign="top" width="300">
+          <p><b>Автор</b></p>
+          <p>__________________________________________<br>
+            <span>(Ф.И.О. полностью)</span>
+          </p>
+          <p>проживающий по адресу</p>
+          <p>__________________________________________</p>
+          <p>__________________________________________</p>
+          <p>Паспорт _____№___________, выдан</p>
+          <p>__________________________________________</p>
+          <p>(место выдачи)</p>
+          <p>__________________________________________</p>
+          <p>дата).</p>
+          <p>Номер телефона для связи</p>
+          <p>__________________________________________</p>
+          <p>Адрес электронной почты</p>
+          <p>__________________________________________</p>
+          <p>Подпись</p>
+          <p>__________________________________________</p>
+        </td>
+
+      </tr>
+
+    </tbody>
+  </table>
+
+  <a href="docs/license_dogovor.docx" class="button">Скачать</a>
 </main>

@@ -2,7 +2,7 @@
 <html lang="ru">
 
 <head>
-	<title>Закон о средствах массовой инвормации</title>
+	<title>ЭТИЧЕСКИЙ КОДЕКС НАУЧНЫХ ПУБЛИКАЦИЙ</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Главный редактор, редколегия и редсовет CEGR.ru">
 	<meta name="keywords" content="">
@@ -30,7 +30,7 @@
 	</div>
 
 	<?php
-    $title_page = 'Этический кодекс';
+    $title_page = 'ЭТИЧЕСКИЙ КОДЕКС НАУЧНЫХ ПУБЛИКАЦИЙ';
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';
     include_once 'includes/eticCode-main.php';

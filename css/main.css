@@ -15,10 +15,29 @@
     margin-bottom: 15px;
     line-height: 1.5;
     color: #333;
-    font-size: 15px;
+    font-size: 16px;
 }
 .main table {
     margin-bottom: 15px;
+    color: #333;
+}
+.main .button {
+    display: inline-block;
+    background: #BC9467;
+    text-align: center;
+    padding: 12px 40px;
+    border-radius: 60px;
+    color: #fff;
+    box-sizing: border-box;
+    transition: 0.3s;
+    font-weight: bold;
+    line-height: 1;
+    font-size: 16px;
+    border: 1px solid transparent;
+}
+.main .button:hover {
+    background: none;
+    border: 1px solid #BC9467;
     color: #333;
 }
 @media (max-width: 576px) {
