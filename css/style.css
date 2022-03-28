@@ -390,9 +390,8 @@ ol {
 
 .sub-menu__subpoint {
   position: absolute;
-  width: 100%;
-  min-width: 200px;
-  left: -204px; 
+  width: 200px;
+  left: -200px; 
   top: -17px;
   display: flex;
   flex-direction: column;
@@ -422,7 +421,7 @@ ol {
 ---------------------*/
 
 .hero-section {
-  height: 948px;
+  /* height: 948px; */
   overflow: hidden;
 }
 
