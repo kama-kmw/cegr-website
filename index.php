@@ -3,6 +3,7 @@
 
 <?php 
 	$title_page = 'Экономические и гуманитарные исследования регионов'; 
+	$title_page_eng = 'Economic and humanitarian studies of the regions';
 	include 'includes/head.php';
 ?>
 
@@ -16,8 +17,8 @@
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';
     include_once 'includes/categories-section.php';
-    include_once 'includes/courses-section.php';
-    include_once 'includes/banner-section.php';
+    // include_once 'includes/courses-section.php';
+    // include_once 'includes/banner-section.php';
     include_once 'includes/footer.php';
 	include_once 'includes/js.php';
     ?>

@@ -53,8 +53,9 @@ h6 {
 }
 
 p {
+  text-align: left;
   font-size: 14.1px;
-  color: #878787;
+  /* color: #878787; */
   line-height: 2.2;
   font-weight: 500;
 }
@@ -88,6 +89,7 @@ textarea:focus {
 
 a {
   transition: 0.3s;
+  text-decoration: underline;
 }
 a:hover {
   color: #BC9467 !important;
@@ -112,7 +114,7 @@ ol {
 .section-title {
   text-align: center;
   padding: 0 110px;
-  margin-bottom: 110px;
+  /* margin-bottom: 110px; */
 }
 
 .section-title h2 {
@@ -130,7 +132,7 @@ ol {
 
 
 .section-title a {
-  color: #6d6868;
+  color: #333;
   /* text-decoration: underline; */
   cursor: pointer;
 }
@@ -347,6 +349,7 @@ ol {
   color: #fff;
   padding: 30px 15px;
   transition: .4s;
+  text-decoration: none;
 }
 
 .main-menu__link:hover {

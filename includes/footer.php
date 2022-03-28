@@ -1,5 +1,5 @@
 <!-- footer section -->
-<footer class="footer-section spad pb-0">
+<footer class="footer-section spad pb-0 banner-fon">
 	<div class="footer-top">
 		<!-- <div class="footer-warp">
 				<div class="row">
