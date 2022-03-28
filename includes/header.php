@@ -61,45 +61,102 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="#">Архивы</a>
-                        <a href="#">Архивы</a>
+                        <a href="#" class="main-menu__link lang-ru">Архивы</a>
+                        <a href="#" class="main-menu__link lang-en">Archives</a>
                         <ul class="sub-menu">
                             <li class='sub-menu__item'>
-                                <a href="#">2019</a>
+                                <a href="#" class="main-menu__link">2019</a>
                                 <ul class="sub-menu__subpoint">
-                                    <li><a href="docs/journal_1_2019.pdf" target="_blank">Выпуск №1</a></li>
-                                    <li><a href="docs/journal_2_2019.pdf" target="_blank">Выпуск №2</a></li>
-                                    <li><a href="docs/journal_3_2019.pdf" target="_blank">Выпуск №3</a></li>
-                                    <li><a href="docs/journal_4_2019.pdf" target="_blank">Выпуск №4</a></li>
-                                    <li><a href="docs/journal_5_2019.pdf" target="_blank">Выпуск №5</a></li>
-                                    <li><a href="docs/journal_6_2019.pdf" target="_blank">Выпуск №6</a></li>
+                                    <li>
+                                        <a href="docs/journal_1_2019.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №1</a>
+                                        <a href="docs/journal_1_2019.pdf" class="main-menu__link lang-en" target="_blank">Edition №1</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_2_2019.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №2</a>
+                                        <a href="docs/journal_2_2019.pdf" class="main-menu__link lang-en" target="_blank">Edition №2</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_3_2019.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №3</a>
+                                        <a href="docs/journal_3_2019.pdf" class="main-menu__link lang-en" target="_blank">Edition №3</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_4_2019.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №4</a>
+                                        <a href="docs/journal_4_2019.pdf" class="main-menu__link lang-en" target="_blank">Edition №4</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_5_2019.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №5</a>
+                                        <a href="docs/journal_5_2019.pdf" class="main-menu__link lang-en" target="_blank">Edition №5</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_6_2019.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №6</a>
+                                        <a href="docs/journal_6_2019.pdf" class="main-menu__link lang-en" target="_blank">Edition №6</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class='sub-menu__item'>
-                                <a href="#">2020</a>
+                                <a href="#" class="main-menu__link">2020</a>
                                 <ul class="sub-menu__subpoint">
-                                    <li><a href="docs/journal_1_2020.pdf" target="_blank">Выпуск №1</a></li>
-                                    <li><a href="docs/journal_2_2020.pdf" target="_blank">Выпуск №2</a></li>
-                                    <li><a href="docs/journal_3_2020.pdf" target="_blank">Выпуск №3</a></li>
-                                    <li><a href="docs/journal_4_2020.pdf" target="_blank">Выпуск №4</a></li>
-                                    <li><a href="docs/journal_5_2020.pdf" target="_blank">Выпуск №5</a></li>
-                                    <li><a href="docs/journal_6_2020.pdf" target="_blank">Выпуск №6</a></li>
+                                    <li>
+                                        <a href="docs/journal_1_2020.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №1</a>
+                                        <a href="docs/journal_1_2020.pdf" class="main-menu__link lang-en" target="_blank">Edition №1</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_2_2020.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №2</a>
+                                        <a href="docs/journal_2_2020.pdf" class="main-menu__link lang-en" target="_blank">Edition №2</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_3_2020.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №3</a>
+                                        <a href="docs/journal_3_2020.pdf" class="main-menu__link lang-en" target="_blank">Edition №3</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_4_2020.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №4</a>
+                                        <a href="docs/journal_4_2020.pdf" class="main-menu__link lang-en" target="_blank">Edition №4</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_5_2020.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №5</a>
+                                        <a href="docs/journal_5_2020.pdf" class="main-menu__link lang-en" target="_blank">Edition №5</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_6_2020.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №6</a>
+                                        <a href="docs/journal_6_2020.pdf" class="main-menu__link lang-en" target="_blank">Edition №6</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class='sub-menu__item'>
-                                <a href="#">2021</a>
+                                <a href="#" class="main-menu__link">2021</a>
                                 <ul class="sub-menu__subpoint">
-                                    <li><a href="docs/journal_1_2021.pdf" target="_blank">Выпуск №1</a></li>
-                                    <li><a href="docs/journal_2_2021.pdf" target="_blank">Выпуск №2</a></li>
-                                    <li><a href="docs/journal_3_2021.pdf" target="_blank">Выпуск №3</a></li>
-                                    <li><a href="docs/journal_4_2021.pdf" target="_blank">Выпуск №4</a></li>
-                                    <li><a href="docs/journal_5_2021.pdf" target="_blank">Выпуск №5</a></li>
-                                    <li><a href="docs/journal_6_2021.pdf" target="_blank">Выпуск №6</a></li>
+                                    <li>
+                                        <a href="docs/journal_1_2021.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №1</a>
+                                        <a href="docs/journal_1_2021.pdf" class="main-menu__link lang-en" target="_blank">Edition №1</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_2_2021.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №2</a>
+                                        <a href="docs/journal_2_2021.pdf" class="main-menu__link lang-en" target="_blank">Edition №2</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_3_2021.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №3</a>
+                                        <a href="docs/journal_3_2021.pdf" class="main-menu__link lang-en" target="_blank">Edition №3</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_4_2021.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №4</a>
+                                        <a href="docs/journal_4_2021.pdf" class="main-menu__link lang-en" target="_blank">Edition №4</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_5_2021.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №5</a>
+                                        <a href="docs/journal_5_2021.pdf" class="main-menu__link lang-en" target="_blank">Edition №5</a>
+                                    </li>
+                                    <li>
+                                        <a href="docs/journal_6_2021.pdf" class="main-menu__link lang-ru" target="_blank">Выпуск №6</a>
+                                        <a href="docs/journal_6_2021.pdf" class="main-menu__link lang-en" target="_blank">Edition №6</a>
+                                    </li>
                                 </ul>
                             </li>
                         </ul>
                     </li>
-                    <li><a href="retraction.php">Ретракция</a></li>
+                    <li>
+                        <a href="retraction.php" class="main-menu__link lang-ru">Ретракция</a>
+                        <a href="retraction.php" class="main-menu__link lang-en">Retraction</a>
+                    </li>
                     <li class="js-change-lang rus">
                         <span class="lang-en"><img src="img/logo/eng-flag.png"></span>
                         <span class="lang-ru"><img src="img/logo/rus-flag.png"></span>
