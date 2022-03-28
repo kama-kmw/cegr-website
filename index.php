@@ -6,7 +6,6 @@
 	include 'includes/head.php';
 ?>
 
-
 <body>
 	<!-- Page Preloder -->
 	<div id="preloder">
@@ -22,6 +21,6 @@
     include_once 'includes/footer.php';
 	include_once 'includes/js.php';
     ?>
+</body>
     
-
 </html>
