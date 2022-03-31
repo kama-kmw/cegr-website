@@ -4,6 +4,7 @@
 <?php 
 	$title_page = 'Экономические и гуманитарные исследования регионов'; 
 	$title_page_eng = 'Economic and humanitarian studies of the regions';
+	$lang_change = true;
 	include 'includes/head.php';
 ?>
 
