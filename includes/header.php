@@ -34,7 +34,6 @@
                         <a href="#" class="main-menu__link lang-ru">Авторам</a>
                         <a href="#" class="main-menu__link lang-en">To the authors</a>
                         <ul class="sub-menu">
-<<<<<<< HEAD
                             <li>
                                 <a href="article-rule.php" class="main-menu__link lang-ru">Правила оформления научных статей</a>
                                 <a href="article-rule.php" class="main-menu__link lang-en">Rules for the design of scientific articles</a>
@@ -59,14 +58,6 @@
                                 <a href="etic-code.php" class="main-menu__link lang-ru">Этический кодекс</a>
                                 <a href="etic-code.php" class="main-menu__link lang-en">Code of Ethics</a>
                             </li>
-=======
-                            <li><a href="author.php">Авторам</a></li>
-                            <li><a href="license-agreement.php">Договор о передачи прав на опубликование</a></li>
-                            <li><a href="agrement.php">Разрешение на опубликование индивидуальных сведений об авторе</a></li>
-                            <li><a href="about-author.php">Сведения об авторе</a></li>
-                            <li><a href="recenzia.php">Резенция</a></li>
-                            <li><a href="etic-code.php">Этический кодекс</a></li>
->>>>>>> e432e0cda2de4cdf05f7066df0e91c253926e088
                         </ul>
                     </li>
                     <li>
