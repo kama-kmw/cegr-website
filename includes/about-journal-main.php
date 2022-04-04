@@ -1,6 +1,5 @@
-<main class="main">
-    <h2>ПОЛОЖЕНИЕ
-    О НАУЧНО-ТЕОРЕТИЧЕСКОМ РЕЦЕНЗИРУЕМОМ  ЖУРНАЛЕ
+<main class="main  lang-ru">
+    <h2>ПОЛОЖЕНИЕ О НАУЧНО-ТЕОРЕТИЧЕСКОМ РЕЦЕНЗИРУЕМОМ  ЖУРНАЛЕ
     «ЭКОНОМИЧЕСКИЕ И ГУМАНИТАРНЫЕ ИССЛЕДОВАНИЯ РЕГИОНОВ»</h2>
     <p>1.ОБЩИЕ ПОЛОЖЕНИЯ</p>
     <p>1.1 Научно-теоретический рецензируемый журнал «Экономические и гуманитарные исследования регионов» издается в соответствии  с Федеральным  Законом  РФ от 27.12.1991 N 2124-1 (ред. от 09.02.2009) "О средствах массовой информации";  Федеральный законом  от 18 декабря  2006 г. N 230-ФЗ, Гражданским кодексом  РФ. Часть четвертая.</p>
@@ -30,4 +29,38 @@
     <p>5. ПОРЯДОК ПРЕДОСТАВЛЕНИЯ МАТЕРИАЛОВ</p>
     <p>5.1. Авторы представляют статьи и сопроводительные документы по электронной почте на электронный  адрес redsov@mail.ru.</p>
     <p>5.2. На всех стадиях работы с рукописями и для общения с авторами редакцией используется электронная почта.</p>
+</main>
+
+<main class='main lang-en'>
+    <h2>POSITION
+    ABOUT SCIENTIFIC AND THEORETICAL REVIEW JOURNAL
+    «ECONOMIC AND HUMANITARIAN STUDIES OF THE REGIONS»
+    </h2>
+    <p>1.GENERAL PROVISIONS</p>
+    <p>1.1 The scientific and theoretical peer-reviewed journal "Economic and Humanitarian Research of Regions" is published in accordance with the Federal Law of the Russian Federation of December 27, 1991 N 2124-1 (as amended on February 9, 2009) "On the Mass Media"; Federal Law of December 18, 2006 N 230-FZ, the Civil Code of the Russian Federation. Part four.</p>
+    <p>1.2. The journal is registered with the Federal Service for Supervision of Mass Communications, Communications and Cultural Heritage Protection of the Russian Federation (Registration number PI No. FS77-39740); ISSN 2079 - 1968; subscription index in the Rospechat agency catalog 37137; the journal is registered in the RSCI (www.elibrary.ru).</p>
+    <p>1.3. The main purpose of the publication is the publication of original scientific articles on pedagogy, philosophy, sociology, scientific reviews, materials of scientific sessions, conferences, information materials of interest to faculty and researchers.</p>
+    <p>1.4. The journal is published in printed form with a frequency of 6 issues per year and has an open full-text electronic version, which is identical in content to the printed form and is posted on the Internet on the journal's website at www.cegr.ru after the printed version of the publication is released.</p>
+    <p>1.5. Manuscripts of articles for publication in the journal are drawn up in accordance with the Rules for the directions of scientific articles in the journal Economic and Humanitarian Research of Regions.</p>
+    <p>1.6. Author's royalties are not paid. Manuscripts and related materials will not be returned.</p>
+
+    <p>2.EDITORIAL BOARD</p>
+    <p>2.1. The editorial board includes leading Russian experts on topical issues of pedagogy, philosophy and sociology.</p>
+    <p>2.2. Preparation for the publication of the journal is carried out by the editorial board.</p>
+    <p>2.3. The editorial board is headed by the chief editor</p>
+    <p>2.4. The decision generates a number; supplements to the journal are published; the design of the journal is approved, the periodicity of the journal, its format, and circulation are established and, if necessary, changed.</p>
+
+    <p>3. RIGHTS AND OBLIGATIONS OF MEMBERS OF THE EDITORIAL BOARD</p>
+    <p>3.1. Members of the editorial board participate in the preparation of long-term plans for the work of the journal and discussion of the content of each issue of the journal.</p>
+    <p>3.2. The editor-in-chief coordinates the entire cycle of work on completing each issue of the journal.</p>
+    <p>3.3. The Deputy Editor-in-Chief provides correspondence with the authors; forms the content of each issue and prepares the author's originals and electronic versions of articles for delivery to the printing house; monitors compliance with the requirements for the design of manuscripts of articles.</p>
+    <p>3.4. Members of the editorial board have the right to extraordinary publication of scientific articles in the journal; participate in the activities of a scientific journal, make proposals on the prospects for the development of a scientific journal, the need to open new headings, propose authors for scientific publications, attract politicians, practitioners and public figures for publication in a scientific journal; involved as a reviewer of scientific publications or headings of a scientific journal.</p>
+
+    <p>4. REVIEW</p>
+    <p>4.2. Experts working in the organization where the work was performed are not involved in the review.</p>
+    <p>4.3. Reviews of received materials on paper are kept in the editorial office for 1 year.</p>
+
+    <p>5. PROCEDURE FOR SUBMISSION OF MATERIALS</p>
+    <p>5.1. Authors submit articles and supporting documents by e-mail to redsov@mail.ru.</p>
+    <p>5.2. At all stages of work with manuscripts and for communication with authors, the editors use e-mail.</p>
 </main>
