@@ -2,6 +2,7 @@
 <html lang="ru">
 
 <?php 
+    $lang_change = true;
     $title_page = 'ПОЛОЖЕНИЕ О ЖУРНАЛЕ «ЭКОНОМИЧЕСКИЕ И ГУМАНИТАРНЫЕ ИССЛЕДОВАНИЯ РЕГИОНОВ»';
 	include 'includes/head.php';
 ?>

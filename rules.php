@@ -2,6 +2,7 @@
 <html lang="ru">
 
 <?php 
+    $lang_change = true;
     $title_page = 'ПРАВИЛА РЕЦЕНЗИРОВАНИЯ';
 	include 'includes/head.php';
 ?>

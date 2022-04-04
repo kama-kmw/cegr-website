@@ -2,6 +2,7 @@
 <html lang="ru">
 
 <?php 
+    $lang_change = true;
     $title_page = 'Главный редактор, редколегия и редсовет';
 	include 'includes/head.php';
 ?>
