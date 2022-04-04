@@ -4,6 +4,7 @@
 <?php 
     $lang_change = true;
     $title_page = 'ПРАВИЛА РЕЦЕНЗИРОВАНИЯ';
+    $title_page_eng = 'REVIEW RULES';
 	include 'includes/head.php';
 ?>
 

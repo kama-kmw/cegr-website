@@ -4,6 +4,7 @@
 <?php 
     $lang_change = true;
     $title_page = 'ПОЛОЖЕНИЕ О ЖУРНАЛЕ «ЭКОНОМИЧЕСКИЕ И ГУМАНИТАРНЫЕ ИССЛЕДОВАНИЯ РЕГИОНОВ»';
+    $title_page_eng = 'REGULATIONS ON the JOURNAL "ECONOMIC AND HUMANITARIAN STUDIES OF REGIONS"';
 	include 'includes/head.php';
 ?>
 

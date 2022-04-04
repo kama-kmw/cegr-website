@@ -4,6 +4,7 @@
 <?php 
     $lang_change = true;
     $title_page = 'Главный редактор, редколегия и редсовет';
+    $title_page_eng = 'Editor-in-Chief, editorial Board and Editorial Council';
 	include 'includes/head.php';
 ?>
 
