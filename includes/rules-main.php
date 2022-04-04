@@ -12,7 +12,7 @@
     <p>Срок рецензирования статьи - 10 дней.</p>
     <p>Рецензия на статью</p>
 
-    <table class="MsoNormalTable" style="background: white none repeat scroll 0%; width: 100%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table class="MsoNormalTable" style="background: white none repeat scroll 0%; width: 100%;   -moz-background-inline-policy: initial; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="100%">
 
         <tbody>
             <tr>
@@ -682,7 +682,7 @@
 
     <p>Рекомендации: нет</p>
 
-    <table class="MsoNormalTable" style="background: white none repeat scroll 0%; width: 99%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="99%">
+    <table class="MsoNormalTable" style="background: white none repeat scroll 0%; width: 99%;   -moz-background-inline-policy: initial; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="99%">
 
         <tbody>
             <tr>
@@ -778,7 +778,7 @@
     <p>Article review period - 10 days.</p>
     <p>Article review</p>
 
-     <table class="MsoNormalTable" style="background: white none repeat scroll 0%; width: 100%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="100%">
+     <table class="MsoNormalTable" style="background: white none repeat scroll 0%; width: 100%;   -moz-background-inline-policy: initial; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="100%">
 
         <tbody>
             <tr>
@@ -1448,7 +1448,7 @@
 
     <p>Recommendations: no</p>
 
-    <table class="MsoNormalTable" style="background: white none repeat scroll 0%; width: 99%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="99%">
+    <table class="MsoNormalTable" style="background: white none repeat scroll 0%; width: 99%;   -moz-background-inline-policy: initial; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="99%">
 
         <tbody>
             <tr>
