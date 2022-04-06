@@ -36,13 +36,12 @@
 
 	<div class="aside__block relative">
 		<span class="span-id">Год</span>
-		<span>Документ</span>
+		<span class="aside__span">Название (рус)</span>
+		<span class="aside__span">Название (англ)</span>
+		<span class="aside__span">Имя файла</span>
 	</div>
-	<div class="">
-		<?php
-		include "modules/archive/archive_get_list_admin.php"; 
-		?>
-	</div>
-	<?php include "year_list_admin.php"; ?>
+	<?php
+	include "modules/archive/archive_get_list_admin.php";
+	?>
 
 </div>

@@ -163,7 +163,7 @@
             color: #999;
             font-weight: bold;
             margin-right: 10px;
-            width: 30px;
+            width: 70px;
         }
         
         .reform {
@@ -249,6 +249,10 @@
         
         .form__button:hover {
             cursor: pointer;
+        }
+        .aside__span {
+            display: inline-block;
+            min-width: 200px;
         }
         
         @media(max-width: 500px) {
