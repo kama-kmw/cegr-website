@@ -4,9 +4,13 @@
 
 	<form method="POST" action="modules/archive/archive_add.php" class="admin-form mb30" enctype="multipart/form-data">
 
-		<label class="admin-label flex">
-			<div class="w-33 mr20">
-				<p class="admin-label__text">Название архива<sup>*</sup></p>
+		<label class="admin-label flex flex-wrap">
+			<div class="w-48 mr20 mb20">
+				<p class="admin-label__text">Название<sup>*</sup></p>
+				<input type="text" required name="name" class="admin-input">
+			</div>
+			<div class="w-48 mr20">
+				<p class="admin-label__text">Название на английском<sup>*</sup></p>
 				<input type="text" required name="name" class="admin-input">
 			</div>
 			<div class="mr20">
@@ -34,7 +38,7 @@
 		<span class="span-id">Год</span>
 		<span>Документ</span>
 	</div>
-	<div class="max-h-400">
+	<div class="">
 		<?php
 		include "modules/archive/archive_get_list_admin.php"; 
 		?>
