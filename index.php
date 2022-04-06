@@ -15,13 +15,14 @@
 	</div>
 
 	<?php
-    include_once 'includes/header.php';
-    include_once 'includes/hero-section.php';
-    include_once 'includes/categories-section.php';
-    // include_once 'includes/courses-section.php';
-    // include_once 'includes/banner-section.php';
-    include_once 'includes/footer.php';
-	include_once 'includes/js.php';
+	include 'admin/connect.php';
+    include 'includes/header.php';
+    include 'includes/hero-section.php';
+    include 'includes/categories-section.php';
+    // include 'includes/courses-section.php';
+    // include 'includes/banner-section.php';
+    include 'includes/footer.php';
+	include 'includes/js.php';
     ?>
 </body>
     
