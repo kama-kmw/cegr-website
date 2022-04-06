@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.mb20 {
+    margin-bottom: 20px;
+}
+.mt20 {
+    margin-top: 20px;
+}
+.mr20 {
+    margin-right: 20px;
+}
+.flex__jc-sb {
+    display: flex !important;
+    justify-content: space-between;
+}
+.flex {
+    display: flex !important;
+    justify-content: start;
+}
+.w-48 {
+    width: 48%;
+}
+.w-33 {
+    width: 33%;
+}
+.max-h-400 {
+    max-height: 400px;
+}
