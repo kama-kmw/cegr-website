@@ -8,5 +8,5 @@ $(document).on('click', '.del-archive', function(e) {
     let popup = $(document).find('.del-archive-popup');
     popup.css('display', 'flex');
     popup.find('#id').attr("value", id);
-    popup.find('.h2').text('Удалить архив ' + name + '?');
+    popup.find('.h2').text('Удалить ' + name + '?');
 });
