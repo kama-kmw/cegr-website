@@ -11,7 +11,7 @@
 			</div>
 			<div class="w-48 mr20">
 				<p class="admin-label__text">Название на английском<sup>*</sup></p>
-				<input type="text" required name="name" class="admin-input">
+				<input type="text" required name="name_eng" class="admin-input">
 			</div>
 			<div class="mr20">
 				<p class="admin-label__text">Выберите год<sup>*</sup></p>

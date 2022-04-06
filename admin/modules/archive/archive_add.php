@@ -1,8 +1,10 @@
+<meta charset="UTF-8">
 <?php
 
 include "../../connect.php";
 
 $name = $_POST['name'];
+$name_eng = $_POST['name_eng'];
 $year = $_POST['year'];
 $doc_src;
 
@@ -22,7 +24,7 @@ if (isset($_FILES['doc'])) {
 }
 
 if ($connection) {
-    mysqli_query($connection, "INSERT INTO `archive` (`id`, `name`, `year`, `src`) VALUES (NULL, '$name', '$year', '$doc_src');");
+    mysqli_query($connection, "INSERT INTO `archive` (`id`, `name`, `name_eng`, `year`, `src`) VALUES (NULL, '$name', '$name_eng', '$year', '$doc_src');");
 }
 
 function can_upload($file)
@@ -60,5 +62,6 @@ function make_upload($file)
 }
 
 mysqli_close($connection);
-header('Location: ../../../admin/#year');
+echo '<script>location.replace("/admin/");</script>';
+// header('Location: ../../../admin/#archive');
 exit;
