@@ -1,7 +1,7 @@
 <?php
 
 include "connect.php";
-include "modules/year/get_list_year.php";
+// include "modules/year/get_list_year.php";
 
 ?>
 
