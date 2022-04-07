@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+.mb10 {
+    margin-bottom: 10px;
+}
 .mb20 {
     margin-bottom: 20px;
 }

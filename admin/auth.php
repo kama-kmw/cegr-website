@@ -1,7 +1,7 @@
 <div class="form__wrapper">
   <form class="form form_small" action="index.php" method="POST">
     <div>
-      <label class="form__label">
+      <label class="form__label mb10">
         <span class="form__label-span">Логин</span>
         <input type="text" class="form__input" name="login" value="<?php echo @$data['login']; ?>">
       </label>

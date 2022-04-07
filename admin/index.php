@@ -1,5 +1,7 @@
 <?php 
-session_start();
+if (session_status() !== PHP_SESSION_ACTIVE) {
+  session_start();
+}
 include "connect.php";
 include "login_get.php";
 
@@ -20,7 +22,7 @@ if(isset($data['do_login'])) {
       $notify[] = 'Вы ввели неверный логин или пароль';
     }
     if($login == $server_name AND $password == $server_password) {
-      $_SESSION['auth'] = true;
+      $_SESSION['auth'] = true; 
     }
   }
 }
