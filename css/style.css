@@ -2007,3 +2007,6 @@ ol {
   color: #BC9467;
   cursor: pointer;
 }
+.text-justify p {
+  text-align: justify;
+}
