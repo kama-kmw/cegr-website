@@ -115,7 +115,7 @@
   <table class="MsoNormalTable" style=" width: 473.4pt;   border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="631">
 
     <tbody>
-      <tr>
+      <!-- <tr>
 
         <td style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 219.85pt;" valign="top" width="293">
 
@@ -194,17 +194,17 @@
 
         </td>
 
-      </tr>
+      </tr> -->
 
       <tr>
 
-        <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 219.85pt;" valign="top" width="293">
+        <td style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 219.85pt;" valign="top" width="293">
 
           <p style="text-align: justify; line-height: 12pt;"><span style="font-size: 12pt; ">Рубрика журнала (философия, педагогика, социология)<o:p></o:p></span></p>
 
         </td>
 
-        <td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 253.55pt;" valign="top" width="338">
+        <td style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 253.55pt;" valign="top" width="338">
 
           <p style="text-align: justify; line-height: 12pt;"><span style="font-size: 12pt; ">&nbsp;<o:p></o:p></span></p>
 
@@ -212,7 +212,7 @@
 
       </tr>
 
-      <tr>
+      <!-- <tr>
 
         <td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 219.85pt;" valign="top" width="293">
 
@@ -292,7 +292,7 @@
 
         </td>
 
-      </tr>
+      </tr> -->
 
       <tr>
 
@@ -314,7 +314,16 @@
     </tbody>
   </table>
 
-
+  <p>Фамилия, имя, отчество – ученая степень, ученое звание, должность,  наименование учебного заведения, адрес электронной почты ( на русском языке)</p>
+  <p>Адрес ( адрес  учебного заведения): индекс, город, улица ( на русском языке)</p>
+  <p>Фамилия, имя, отчество – ученая степень, ученое звание, должность,  наименование учебного заведения, адрес электронной почты ( на английском  языке)</p>
+  <p>Адрес ( адрес  учебного заведения): индекс, город, улица ( на английском языке)</p>
+  <br>
+  <p>Пример.</p>
+  <p>Иванов Иван Иванович – кандидат философских наук, доцент, заведующий кафедрой гуманитарных дисциплин, Федеральное государственное бюджетное учреждение высшего образования « N-ский государственный университет»</p>
+  <p>Адрес: 000000, г. N, ул. N, 1</p>
+  <p>Ivanov Ivan Ivanovich – сandidate of Philosophy, Associate professor, Head of the Department of Humanitarian Disciplines, Federal State Budgetary Institution of Higher Education "N… State University"</p>
+  <p>Address: 000000, city N, st. N, 1</p>
 
 
 
