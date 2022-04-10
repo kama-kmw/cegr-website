@@ -15,7 +15,7 @@
 	</div>
 
 	<?php
-
+    include 'admin/connect.php';
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';
     include_once 'includes/rules-main.php';

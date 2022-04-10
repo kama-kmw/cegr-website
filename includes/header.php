@@ -9,7 +9,7 @@
                         <a href="/" class="main-menu__link lang-en">Main</a>
                     </li>
                     <li>
-                        <a href="redcolegiya.php" class="main-menu__link lang-ru">Редколегия</a>
+                        <a href="redcolegiya.php" class="main-menu__link lang-ru">Редакционная колегия</a>
                         <a href="redcolegiya.php" class="main-menu__link lang-en">Editorial Board</a>
                     </li>
                     <li>
@@ -28,6 +28,10 @@
                                 <a href="rules.php" class="main-menu__link lang-ru">Правила рецензирования</a>
                                 <a href="rules.php" class="main-menu__link lang-en">Review rules</a>
                             </li>
+                            <li>
+                                <a href="regulatory.php" class="main-menu__link lang-ru">Нормативные документы</a>
+                                <a href="regulatory.php" class="main-menu__link lang-en">Regulatory documents</a>
+                            </li>
                         </ul>
                     </li>
                     <li>
@@ -39,17 +43,17 @@
                                 <a href="article-rule.php" class="main-menu__link lang-en">Rules for the design of scientific articles</a>
                             </li>
                             <li>
-                                <a href="license-agreement.php" class="main-menu__link lang-ru">Договор о передачи прав на опубликование</a>
+                                <a href="license-agreement.php" class="main-menu__link lang-ru">Договор о передаче прав на опубликование</a>
                                 <a href="license-agreement.php" class="main-menu__link lang-en">Agreement on the transfer of publishing rights</a>
                             </li>
                             <li>
                                 <a href="agrement.php" class="main-menu__link lang-ru">Разрешение на опубликование индивидуальных сведений об авторе</a>
                                 <a href="agrement.php" class="main-menu__link lang-en">Permission to publish individual information about the author</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="about-author.php" class="main-menu__link lang-ru">Сведения об авторе</a>
                                 <a href="about-author.php" class="main-menu__link lang-en">Information about the author</a>
-                            </li>
+                            </li> -->
                             <li>
                                 <a href="recenzia.php" class="main-menu__link lang-ru">Рецензия</a>
                                 <a href="recenzia.php" class="main-menu__link lang-en">Review</a>

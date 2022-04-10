@@ -3,7 +3,7 @@
 
 <?php 
     $lang_change = true;
-    $title_page = 'Главный редактор, редколегия и редсовет';
+    $title_page = 'Главный редактор, редколегия и редакционный совет';
     $title_page_eng = 'Editor-in-Chief, editorial Board and Editorial Council';
 	include 'includes/head.php';
 ?>
@@ -15,6 +15,7 @@
 	</div>
 
 	<?php
+    include 'admin/connect.php';
     include_once 'includes/header.php';
     include_once 'includes/hero-section.php';
     include_once 'includes/redcolegiya-main.php';

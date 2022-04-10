@@ -2010,3 +2010,13 @@ ol {
 .text-justify p {
   text-align: justify;
 }
+.indent {
+  text-indent: 30px;
+  margin-bottom: 10px !important;
+}
+.t-right {
+  text-align: right !important;
+}
+.mb20 {
+  margin-bottom: 20px !important;
+}
