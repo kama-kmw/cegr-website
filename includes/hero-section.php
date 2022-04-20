@@ -1,5 +1,5 @@
 <!-- Hero section -->
-<section class="hero-section set-bg" data-setbg="img/bg.jpg">
+<section class="hero-section set-bg" data-setbg="img/bg2.jpg">
 	<div class="container">
 		<div class="hero-text text-white">
 			<h2 class="hero-section__h2 lang-ru">
